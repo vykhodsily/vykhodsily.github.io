@@ -1,0 +1,86 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(http://fonts.gstatic.com/s/opensans/v10/DXI1ORHCpsQm3Vp6mXoaTaOCaDZZVv73zpFSwE4Va2k.woff2) format('woff2'), url(http://fonts.gstatic.com/s/opensans/v10/DXI1ORHCpsQm3Vp6mXoaTVMBBrntOh5tSEdJ1aeglyY.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(http://fonts.gstatic.com/s/opensans/v10/K88pR3goAWT7BTt32Z01m5Bw1xU1rKptJj_0jans920.woff2) format('woff2'), url(http://fonts.gstatic.com/s/opensans/v10/K88pR3goAWT7BTt32Z01m7O3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJc3WVjuplzKOCaDZZVv73zpFSwE4Va2k.woff2) format('woff2'), url(http://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJc3WVjuplzFMBBrntOh5tSEdJ1aeglyY.woff) format('woff');
+}
+
+
+body {
+  background: #111;
+  background-image: url('/img/background.jpg');
+  color: #eee;
+  font-family: "Open Sans", Arial, sans-serif;
+  font-weight: 300;
+
+}
+h1, h2 {
+  font-weight: 400;
+}
+
+a {
+  color: #eee;
+}
+a:hover {
+  color: #aaa;
+}
+
+.icon {
+  background-size: 100% 100%;
+  line-height: 0;
+  font-size: 36px;
+  text-decoration: none;
+  &.soundcloud {
+    background: url('/img/sc48-tr.png') no-repeat;
+    background-position: 0 4px;
+  }
+  &.mixcloud {
+    background: url('/img/mc48-tr.png') no-repeat;
+    background-position: 0 4px;
+  }
+  &.hearthis {
+    background: url('/img/ht48-tr.png') no-repeat;
+    background-position: 3px 3px;
+  }
+  &.mixlr {
+    background: url('/img/mixlr48-tr.png') no-repeat;
+    background-position: 5px 3px;
+  }
+}
+
+#header > section {
+  background-size: 100% auto;
+  color: white;
+  font-size: 18px;
+  & > h1 {
+    display: inline;
+  }
+
+  & > nav {
+    font-size: 24px;
+    text-align: center;
+    & > a {
+      margin-right: 1em;
+    }
+    margin-bottom: 1em;
+  }
+
+  & > #social-buttons {
+    margin-left: 3em;
+  }
+}
