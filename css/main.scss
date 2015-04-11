@@ -20,14 +20,22 @@
   src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJc3WVjuplzKOCaDZZVv73zpFSwE4Va2k.woff2) format('woff2'), url(http://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJc3WVjuplzFMBBrntOh5tSEdJ1aeglyY.woff) format('woff');
 }
 
+html {
+  background: url(/img/background.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 
 body {
-  background: #111;
-  background-image: url('/img/background.jpg');
+//  background: #111;
+////  background-image: url('/img/background.jpg');
   color: #eee;
   font-family: "Open Sans", Arial, sans-serif;
   font-weight: 300;
-
+  margin-top: 0;
 }
 h1, h2 {
   font-weight: 400;
@@ -38,6 +46,10 @@ a {
 }
 a:hover {
   color: #aaa;
+}
+
+.bg {
+  background-color: rgba(0,0,0,0.53);
 }
 
 .icon {
@@ -63,12 +75,22 @@ a:hover {
   }
 }
 
+#content {
+  margin: 0 1em;
+  padding: 0;
+}
+
 #header > section {
   background-size: 100% auto;
   color: white;
   font-size: 18px;
   & > h1 {
     display: inline;
+    margin-left: 1em;
+  }
+
+  & > p {
+    margin: 1em;
   }
 
   & > nav {
