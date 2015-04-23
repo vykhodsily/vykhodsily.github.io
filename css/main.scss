@@ -118,3 +118,7 @@ ol {
 
 .sidebar {
 }
+
+@media (max-width: 1024px) {
+  #facebook { display: none; }
+}

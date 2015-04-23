@@ -1,0 +1,18 @@
+{% for p in site.data.podcasts %}
+<section class="episode">
+    <h2><a href="https://hearthis.at/vykhodsily/vykhod-sily-001/">Episode {{p.episode}} — {{p.date}}</a></h2>
+    <div class="episode-content">
+        <section class="hearthis-player" data-hearthisid="{{p.hearthis_id}}">
+        </section>
+        <section class="tracklist">
+            <h3>Tracklist:</h3>
+            <ol>
+                {% for t in p.tracklist %}
+                    <li>{{t}}</li>
+                {% endfor %}
+            </ol>
+        </section>
+    </div>
+
+</section>
+{% endfor %}
