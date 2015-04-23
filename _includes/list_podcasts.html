@@ -5,12 +5,16 @@
         <section class="hearthis-player" data-hearthisid="{{p.hearthis_id}}">
         </section>
         <section class="tracklist">
-            <h3>Tracklist:</h3>
-            <ol>
-                {% for t in p.tracklist %}
-                    <li>{{t}}</li>
-                {% endfor %}
-            </ol>
+            {% if p.tracklist %}
+                <h3>Tracklist:</h3>
+                <ol>
+                    {% for t in p.tracklist %}
+                        <li>{{t}}</li>
+                    {% endfor %}
+                </ol>
+            {% else %}
+                <p>Tracklist is not available.</p>
+            {% endif %}
         </section>
     </div>
 
