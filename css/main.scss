@@ -122,3 +122,7 @@ ol {
 @media (max-width: 1024px) {
   #facebook { display: none; }
 }
+
+#contact > * {
+  padding: 0 1em;
+}
