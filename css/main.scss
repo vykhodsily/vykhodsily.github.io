@@ -123,6 +123,8 @@ ol {
   #facebook { display: none; }
 }
 
-#contact > .bg > * {
+#contact {
+  margin-top: 1em;
+  & > .bg > * {
   padding: 0 1em;
 }
