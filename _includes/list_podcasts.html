@@ -1,6 +1,10 @@
 {% for p in site.data.podcasts %}
 <section class="episode">
-    <h2><a href="https://hearthis.at/vykhodsily/vykhod-sily-001/">Episode {{p.episode}}</a></h2>
+    {% if p.guest %}
+        <h2><a href="#">Guest: {{p.guest}}</a></h2>
+    {% else %}
+        <h2><a href="#">Episode {{p.episode}}</a></h2>
+    {%endif %}
     <div class="episode-content">
         <section class="hearthis-player" data-hearthisid="{{p.hearthis_id}}">
         </section>
