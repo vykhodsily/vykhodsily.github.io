@@ -16,9 +16,8 @@ $(function() {
                 player.html(HEARTHIS_TEMPLATE.replace('%id%', player.first().attr('data-hearthisid')));
             } else {
                 player = episode.find('.mixcloud-player').first();
-                var mixcloudUUID = player.attr('data-mixcloud-uuid');
-                var mixcloudFeed = player.attr('data-mixcloud-feed');
-                player.html(MIXCLOUD_TEMPLATE.replace('#uuid#', mixcloudUUID).replace('#feed#', mixcloudFeed));
+                var embedPlayer = player.attr('data-embed');
+                player.html(unescape(embedPlayer));
             }
             episodeContent.removeClass('hidden');
         } else {
