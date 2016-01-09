@@ -1,4 +1,4 @@
-var HEARTHIS_TEMPLATE = '<iframe scrolling="no" width="100%" height="145" src="https://hearthis.at/embed/%id%/transparent/" frameborder="0" allowtransparency></iframe>';
+var HEARTHIS_TEMPLATE = '<iframe scrolling="no" width="100%" height="145" src="https://hearthis.at/embed/%id%/" frameborder="0"></iframe>';
 
 $(function() {
     $('.episode-content').addClass('hidden');
