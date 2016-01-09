@@ -17,6 +17,7 @@ $(function() {
             } else {
                 player = episode.find('.mixcloud-player').first();
                 var embedPlayer = player.attr('data-embed');
+                console.log(embedPlayer)
                 player.html(unescape(embedPlayer));
             }
             episodeContent.removeClass('hidden');
