@@ -22,12 +22,7 @@ $(function() {
             }
             episodeContent.removeClass('hidden');
         } else {
-            var player = episode.find('.hearthis-player').html('');
-            if (player.length > 0) {
-                player.first.html('');
-            } else {
-                episode.find('.embed-player').first().html('');
-            }
+            episode.find('.player').html('');
             episodeContent.addClass('hidden');
         }
     });
