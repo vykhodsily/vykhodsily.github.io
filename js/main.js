@@ -9,16 +9,14 @@ $(function() {
         e.preventDefault();
         var episode = $(this).parent().parent()
         var episodeContent = episode.find('.episode-content').first();
+        var player = episode.find('.player');
+        var playerType = player.attr('data-player-type');
 
         if (episodeContent.hasClass('hidden')) {
-            var player = episode.find('.hearthis-player');
-            if (player.length > 0) {
+            if (playerType == 'hearthis') {
                 player.html(HEARTHIS_TEMPLATE.replace('%id%', player.first().attr('data-hearthisid')));
-            } else {
-                player = episode.find('.embed-player').first();
-                var embedPlayer = player.attr('data-embed');
-                console.log(embedPlayer)
-                player.html(unescape(embedPlayer));
+            } else if (playerType == 'embed') {
+                player.html(unescape(player.attr('data-embed')));
             }
             episodeContent.removeClass('hidden');
         } else {
