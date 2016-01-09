@@ -9,7 +9,7 @@
         {% if p.hearthis_id %}
             <section class="hearthis-player" data-hearthisid="{{p.hearthis_id}}">
         {% else %}
-            {{p.mixcloud_embed}}
+            <section class="mixcloud-player" data="{{p.mixcloud_embed | escape}}">
         {% endif %}
         </section>
         <section class="tracklist">
