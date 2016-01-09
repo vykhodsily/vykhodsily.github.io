@@ -7,9 +7,9 @@
     {%endif %}
     <div class="episode-content">
         {% if p.hearthis_id %}
-            <section class="hearthis-player player" data-hearthisid="{{p.hearthis_id}}">
+            <section class="player" data-player-type="hearthis" data-hearthisid="{{p.hearthis_id}}">
         {% else %}
-            <section class="embed-player player" data-embed="{{p.embed | escape}}">
+            <section class="player" data-player-type="embed" data-embed="{{p.embed | escape}}">
         {% endif %}
         </section>
         <section class="tracklist">
