@@ -15,7 +15,7 @@ $(function() {
             if (player.length > 0) {
                 player.html(HEARTHIS_TEMPLATE.replace('%id%', player.first().attr('data-hearthisid')));
             } else {
-                player = episode.find('.mixcloud-player').first();
+                player = episode.find('.embed-player').first();
                 var embedPlayer = player.attr('data-embed');
                 console.log(embedPlayer)
                 player.html(unescape(embedPlayer));
@@ -26,7 +26,7 @@ $(function() {
             if (player.length > 0) {
                 player.first.html('');
             } else {
-                episode.find('mixcloud-player').first().html('');
+                episode.find('.embed-player').first().html('');
             }
             episodeContent.addClass('hidden');
         }
