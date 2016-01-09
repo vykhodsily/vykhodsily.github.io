@@ -8,18 +8,18 @@ $(function() {
         e.preventDefault();
         var episode = $(this).parent().parent()
         var episodeContent = episode.find('.episode-content').first();
-        var player = episode.find('.player');
+        var player = episode.find('.player').first();
         var playerType = player.attr('data-player-type');
 
         if (episodeContent.hasClass('hidden')) {
             if (playerType == 'hearthis') {
-                player.html(HEARTHIS_TEMPLATE.replace('%id%', player.first().attr('data-hearthisid')));
+                player.html(HEARTHIS_TEMPLATE.replace('%id%', player.attr('data-hearthisid')));
             } else if (playerType == 'embed') {
                 player.html(unescape(player.attr('data-embed')));
             }
             episodeContent.removeClass('hidden');
         } else {
-            episode.find('.player').html('');
+            player.html('');
             episodeContent.addClass('hidden');
         }
     });
