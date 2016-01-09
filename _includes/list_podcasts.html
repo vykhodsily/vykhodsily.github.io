@@ -6,7 +6,11 @@
         <h2><a href="#">Episode {{p.episode}}</a></h2>
     {%endif %}
     <div class="episode-content">
-        <section class="hearthis-player" data-hearthisid="{{p.hearthis_id}}">
+        {% if p.hearthis_id %}
+            <section class="hearthis-player" data-hearthisid="{{p.hearthis_id}}">
+        {% else %}
+            <section class="mixcloud-player" data-mixcloud-uuid="{{p.mixcloud_uuid}}" data-mixcloud-feed="{{p.mixcloud_feed}}">
+        {% endif %}
         </section>
         <section class="tracklist">
             {% if p.tracklist %}
@@ -21,6 +25,7 @@
             {% endif %}
         </section>
     </div>
+
 
 </section>
 {% endfor %}
