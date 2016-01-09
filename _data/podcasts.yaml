@@ -1,7 +1,5 @@
 - episode: '069'
-  #mixcloud_uuid: 'bec5899f-34e0-4cce-8edd-c3783e77ee36'
-  #mixcloud_feed: 'https%3A%2F%2Fwww.mixcloud.com%2FSpecialRequest%2Fvykhod-sily-podcast-069'
-  mixcloud_embed: >
+  embed: >
     <iframe src="https://www.mixcloud.com/widget/iframe/?embed_type=widget_standard&amp;embed_uuid=f19568f8-16c1-4f4b-a147-c7f5a93e85ed&amp;feed=https%3A%2F%2Fwww.mixcloud.com%2FSpecialRequest%2Fvykhod-sily-podcast-069%2F&amp;hide_cover=1&amp;hide_tracklist=1&amp;mini=1&amp;replace=0" frameborder="0" height="60" width="100%"></iframe><div style="clear: both; height: 3px; width: auto;"></div><p style="display: block; font-size: 11px; font-family: &quot;Open Sans&quot;,Helvetica,Arial,sans-serif; margin: 0px; padding: 3px 4px; color: rgb(153, 153, 153); width: auto;"><a href="https://www.mixcloud.com/SpecialRequest/vykhod-sily-podcast-069/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=resource_link" target="_blank" style="color:#808080; font-weight:bold;">Vykhod Sily Podcast 069</a><span> by </span><a href="https://www.mixcloud.com/SpecialRequest/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=profile_link" target="_blank" style="color:#808080; font-weight:bold;">Vykhod Sily Podcast</a><span> on </span><a href="https://www.mixcloud.com/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=homepage_link" target="_blank" style="color:#808080; font-weight:bold;"> Mixcloud</a></p><div style="clear: both; height: 3px; width: auto;"></div>
   tracklist:
     - RQ - Still 
