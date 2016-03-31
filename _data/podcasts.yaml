@@ -1,3 +1,65 @@
+- episode: '071'
+  hearthis_id: 803377
+  tracklist:
+    - Cirrus - Lost In The Desert
+    - Protone - Ridestep
+    - Wintermute - Convergence
+    - Wonky- Inertia (Chad Dubz remix)
+    - DAAT - Sub (Books Remix)
+    - Bereneces - Dusa
+    - Taelimb - Depth Charge
+    - Corrupted - ???
+    - Allied - Godspeed
+    - Demo - Strength In Numbers
+    - Pan - Iron Clad
+    - Gifted Individuals - Chiral
+    - Pan - Elephant Gun
+    - Skitty - Oppression Dub
+    - C U L T - Possessed (Zenith Remix)
+    - Homemade Weapons - Shujinko
+    - Sam Binary - Edge Detect
+    - The Untouchables - Mystic Arts
+    - Homemade Weapons - Sweet Nothing
+    - The Last Hero - Simian King (feat. Loxy & Flatliners)
+    - Mutants - Dubsoul
+    - Signal - Seven
+    - Spline - Black Cube 92
+    - Dioptrics - Reveal
+    - Cuelock - Parameter
+    - Accretion - Unexplained Lights
+    - Mako - By Firelight
+    - Survey - Light Source
+    - Villem - Strange You
+    - Reds - Akasa
+    - Champa B - Yout Man
+    - Space Depth - Mokusei
+- guest: 'Buddhafinger'
+  hearthis_id: 782720
+- guest: Djinn
+  hearthis_id: 756024
+  tracklist:
+    - Paradox – No Consensus (Paradox Music)
+    - Overlook – Kyoto (Renegade Hardware)
+    - Fuj & Dauntless – Deadweight (Skutta)
+    - Breakage ft. Jess Mills – Fighting Fire [DBridge remix] (Digital Soundboy)
+    - Paradox – Paralexia (Paradox Music)
+    - Lynch Kingsley – Vision of Suffering (Inperspective dub)
+    - Earl Grey – Kilonewton Compass (Inperspective dub)
+    - Antagonist & Akinsa – Spirit Walker (dub)
+    - Mecca – Analysis (Subtle Audio dub)
+    - Homemade Weapons - Sweet Nothing (117 dub)
+    - Nebula – Sound Barriers (Bustle Beats)
+    - Pixl – Shifting Sources (Amen-tal dub)
+    - Enjoy - Way of No Glory (Bustle Beats)
+    - FDP Project - The Core (DSP remix) (dub)
+    - Threshold – Blizzard (Skeleton dub)
+    - Martian Man – Keep your Dread [Double O remix] (Stand Firm Hi Fi)
+    - Double O – Dark Water (Wreka Music)
+    - Seba & Paradox - As If (Critical)
+- guest: RougeState
+  hearthis_id: 745980
+- guest: Owneath
+  hearthis_id: 730075
 - guest: 'Niiki Bushido'
   embed: >
     <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2FSpecialRequest%2Fvykhod-sily-podcast-niiki-bushido-guest-mix%2F&hide_cover=1&mini=1" frameborder="0"></iframe>
@@ -500,7 +562,7 @@
   - Nmber 8	- Tide 							
   - Enjoy - One More 							
   - ASC - Response Code								
-- guest: 'Mr Diamond'
+- guest: 'Mr. Diamond'
   hearthis_id: 237480
   tracklist: 
     - Halogenix - Ontology
