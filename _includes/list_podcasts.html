@@ -7,7 +7,8 @@
     {%endif %}
     <div class="episode-content">
         {% if p.hearthis_id %}
-            <section class="player" data-player-type="hearthis" data-hearthisid="{{p.hearthis_id}}">
+            <section class="player" data-player-type="hearthis"
+                data-hearthisid="{{p.hearthis_id | replace: 'https://hearthis.at/', '' | replace: '/', ''}}">
         {% else %}
             <section class="player" data-player-type="embed" data-embed="{{p.embed | escape}}">
         {% endif %}
