@@ -2,9 +2,9 @@
 <section class="episode">
     {% if p.guest %}
         <h2><a href="#">Guest: {{p.guest}}</a></h2>
-    {% elseif p.episode %}
+    {% elsif p.episode %}
         <h2><a href="#">Episode {{p.episode}}</a></h2>
-    {% elseif p.custom %}
+    {% elsif p.custom %}
         <h2><a href="#">{{p.custom}}</a></h2>
     {%endif %}
     <div class="episode-content">
