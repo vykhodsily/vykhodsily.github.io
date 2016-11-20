@@ -3,7 +3,9 @@
     {% if p.guest %}
         <h2><a href="#">Guest: {{p.guest}}</a></h2>
     {% elsif p.episode %}
-        <h2><a href="#">Episode {{p.episode}}</a></h2>
+        <h2><a href="#">Episode: {{p.episode}}</a></h2>
+    {% elsif p.special %}
+        <h2><a href="#">Special: {{<p class="special"></p>}}</a></h2>
     {% elsif p.custom %}
         <h2><a href="#">{{p.custom}}</a></h2>
     {%endif %}
