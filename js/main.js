@@ -3,8 +3,7 @@ var HEARTHIS_TEMPLATE = '<iframe scrolling="no" width="100%" height="150" src="h
 
 $(function() {
     $('.episode-content').addClass('hidden');
-});
-$(function() {
+
     $('.episode > h2:first-child a').click(function(e) {
         e.preventDefault();
         var episode = $(this).parent().parent()
@@ -24,4 +23,10 @@ $(function() {
             episodeContent.addClass('hidden');
         }
     });
+
+    var podcastPMHourUTC = 17;
+    var timezoneOffset = parseInt((new Date()).getTimezoneOffset() * -1 / 60);
+    var timezoneSign = timezoneOffset < 0 ? '–' : '+';
+    var timeFormat = (podcastPMHourUTC + timezoneOffset) + ':00 (UTC' + timezoneSign + Math.abs(timezoneOffset) + ')'
+    $('#podcast-airtime').text(timeFormat);
 });
