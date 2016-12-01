@@ -24,7 +24,7 @@
 - special: 'Rustee - Source.Echo Broadcast_Episode 07'
   hearthis_id: https://hearthis.at/1105437/
   tracklist:
-    - INTRO: The Binary Collective - Data Jam 
+    - INTRO\: The Binary Collective - Data Jam 
     - Khords/R381 - Flastag Dream 
     - Contact Lost - Solanaceae (Version II) 
     - Drogtech - Obscurity 
@@ -52,8 +52,7 @@
     - ASC - Deep Freeze 
     - RQ - Sorrow of the Hunter 
     - Consequence - Magda Trench 
-    - OUTRO:The Binary Collective - Data Jam
-
+    - OUTRO\: The Binary Collective - Data Jam
 - episode: '082'
   hearthis_id: https://hearthis.at/1102309/
   tracklist:
