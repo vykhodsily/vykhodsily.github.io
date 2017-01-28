@@ -1,5 +1,6 @@
 // var HEARTHIS_TEMPLATE = '<iframe scrolling="no" width="100%" height="145" src="https://hearthis.at/embed/%id%/" frameborder="0"></iframe>';
 var HEARTHIS_TEMPLATE = '<iframe scrolling="no" width="100%" height="150" src="https://hearthis.at/embed/%id%/transparent_black/?hcolor=&color=&style=2&block_size=1&block_space=1&background=1&waveform=0&cover=0&autoplay=0&css=" frameborder="0" allowtransparency></iframe>'
+var MIXCLOUD_TEMPLATE = '<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=%id%&hide_cover=1" frameborder="0"></iframe>'
 
 $(function() {
     $('.episode-content').addClass('hidden');
@@ -14,6 +15,8 @@ $(function() {
         if (episodeContent.hasClass('hidden')) {
             if (playerType == 'hearthis') {
                 player.html(HEARTHIS_TEMPLATE.replace('%id%', player.attr('data-hearthisid')));
+            } else if (playerType == 'mixcloud') {
+                player.html(MIXCLOUD_TEMPLATE.replace('%id%', player.attr('data-mixcloud')));
             } else if (playerType == 'embed') {
                 player.html(unescape(player.attr('data-embed')));
             }
