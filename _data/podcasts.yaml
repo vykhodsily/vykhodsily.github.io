@@ -1,9 +1,9 @@
 - episode: '086'
-  hearthis: https://hearthis.at/1252279/
+  hearthis_id: https://hearthis.at/1252279/
 - guest: TKVV
-  hearthis: https://hearthis.at/1252272/
+  hearthis_id: https://hearthis.at/1252272/
 - guest: UxoozZ
-  hearthis: https://www.mixcloud.com/SpecialRequest/vykhod-sily-podcast-uxoozz-live-pa-somatik-techno/
+  mixcloud: https://www.mixcloud.com/SpecialRequest/vykhod-sily-podcast-uxoozz-live-pa-somatik-techno/
 - guest: Chimera
   mixcloud: https://www.mixcloud.com/SpecialRequest/vykhod-sily-podcast-chimera-guest-mix/
 - episode: '085'
