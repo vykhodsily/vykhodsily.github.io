@@ -1,37 +1,37 @@
 - episode: '088'
-  hearthis_id: https://hearthis.at/1318148/
+  hearthis: https://hearthis.at/1318148/
 - live: Fung Bui Lao [MNASS]
-  hearthis_id: https://hearthis.at/1310301/
+  hearthis: https://hearthis.at/1310301/
 - live: Draeil
-  hearthis_id: https://hearthis.at/1318821/
+  hearthis: https://hearthis.at/1318821/
 - episode: '087'
-  hearthis_id: https://hearthis.at/1296737/
+  hearthis: https://hearthis.at/1296737/
 - guest: Torn
-  hearthis_id: https://hearthis.at/1287516/
+  hearthis: https://hearthis.at/1287516/
 - guest: Metro
-  hearthis_id: https://hearthis.at/1279942/
+  hearthis: https://hearthis.at/1279942/
 - guest: Emplate
-  hearthis_id: https://hearthis.at/1273288/
+  hearthis: https://hearthis.at/1273288/
 - guest: TKVV
-  hearthis_id: https://hearthis.at/1252272/
+  hearthis: https://hearthis.at/1252272/
 - special: Organic Mix - Rustee
-  hearthis_id: https://hearthis.at/1270824/
+  hearthis: https://hearthis.at/1270824/
 - guest: 'Neo MDS'
-  hearthis_id: https://hearthis.at/1261271/
+  hearthis: https://hearthis.at/1261271/
 - episode: '086'
-  hearthis_id: https://hearthis.at/1252279/
+  hearthis: https://hearthis.at/1252279/
 - live: UxoozZ
   mixcloud: https://www.mixcloud.com/SpecialRequest/vykhod-sily-podcast-uxoozz-live-pa-somatik-techno/
 - guest: Chimera
   mixcloud: https://www.mixcloud.com/SpecialRequest/vykhod-sily-podcast-chimera-guest-mix/
 - guest: Brijawi
-  hearthis_id: https://hearthis.at/1312732/
+  hearthis: https://hearthis.at/1312732/
 - guest: Tim Reaper
-  hearthis_id: https://hearthis.at/551286/
+  hearthis: https://hearthis.at/551286/
 - guest: DYL
-  hearthis_id: https://hearthis.at/551256/
+  hearthis: https://hearthis.at/551256/
 - guest: Apostroph
-  hearthis_id: https://hearthis.at/551291/
+  hearthis: https://hearthis.at/551291/
 - episode: '085'
   mixcloud: https://www.mixcloud.com/SpecialRequest/vykhod-sily-podcast-085/
   tracklist:
@@ -133,7 +133,7 @@
 - guest: Pen
   mixcloud: https://www.mixcloud.com/SpecialRequest/vykhod-sily-podcast-pen-guest-mix/
 - guest: Criss NSA
-  hearthis_id: https://hearthis.at/1126326/
+  hearthis: https://hearthis.at/1126326/
   tracklist:
     - ENA - 9th Divided (Ancestral Voices 9th Harmonic Remix)
     - Clarity - A Thousand & One
@@ -153,7 +153,7 @@
     - Spirit - Juggernaut
     - Ancestral Voices - Feathered Serpent (ASC & Sam KDC ‘Grey Area’ Remix)
 - guest: 'Dominic Ridgway'
-  hearthis_id: https://hearthis.at/1102301/
+  hearthis: https://hearthis.at/1102301/
   tracklist:
     - Glÿph & Gremlinz - Evolution (Absys Rec) (2014)
     - Instra:mental - No Future (Non Plus Records) (2009)
@@ -176,7 +176,7 @@
     - Slaine - no ID
     - Amit - Human Warfare(AMAR) (2013)
 - special: 'Rustee - Source.Echo'
-  hearthis_id: https://hearthis.at/1105437/
+  hearthis: https://hearthis.at/1105437/
   tracklist:
     - INTRO\: The Binary Collective - Data Jam
     - Khords/R381 - Flastag Dream
@@ -208,7 +208,7 @@
     - Consequence - Magda Trench
     - OUTRO\: The Binary Collective - Data Jam
 - episode: '082'
-  hearthis_id: https://hearthis.at/1102309/
+  hearthis: https://hearthis.at/1102309/
   tracklist:
     - Om Unit - The Mirror
     - Commix- Freefall
@@ -233,7 +233,7 @@
     - Unwell-Forward
     - DJ Madd - Shinobi
 - guest: 'mR BLACk'
-  hearthis_id: https://hearthis.at/1095713/
+  hearthis: https://hearthis.at/1095713/
   tracklist:
     - Istota - Death [Bandcamp]
     - Clarity & Ena - Subterrane [Samurai]
@@ -251,7 +251,7 @@
     - Mønic - Point To The Sun [Tresor]
     - Consequence - Short Lived [Exit]
 - special: 'Rustee - Tesseract'
-  hearthis_id: https://hearthis.at/1086382/
+  hearthis: https://hearthis.at/1086382/
   tracklist:
     - D Flect - Tsunami
     - Clima - No Matter What
@@ -285,15 +285,15 @@
     - Atic - NTFG
     - Survey - Spule
 - guest: The Untouchables
-  hearthis_id: https://hearthis.at/551275/
+  hearthis: https://hearthis.at/551275/
 - guest: Cryogenics
-  hearthis_id: https://hearthis.at/551274/
+  hearthis: https://hearthis.at/551274/
 - guest: Clima
-  hearthis_id: https://hearthis.at/551250/
+  hearthis: https://hearthis.at/551250/
 - guest: Asanyeh
-  hearthis_id: https://hearthis.at/549846/
+  hearthis: https://hearthis.at/549846/
 - guest: 'Rob Vanden'
-  hearthis_id: https://hearthis.at/1074901/
+  hearthis: https://hearthis.at/1074901/
   tracklist:
     - Ena - Squash [Samurai Horo]
     - Sub - Alpha [Alpha Cutauri]
@@ -316,7 +316,7 @@
     - dBridge - Trinity Vile [Cylon]
     - Overlook, Loxy & Resound - The Lodge [Samurai]
 - guest: 'Mauoq'
-  hearthis_id: https://hearthis.at/1065035/
+  hearthis: https://hearthis.at/1065035/
   tracklist:
     -     Mauoq - Static Rush (Feat. Loni Lincoln) [Absys Records]
     -     Atom - Analog Books [IM:Ltd]
@@ -339,7 +339,7 @@
     -     Dexta, Mauoq & Genotype - Chump [Nurtured Beatz]
     -     Mauoq - Mannoy (Kozmo Remix) [Mauoq dub]
 - episode: '081'
-  hearthis_id: https://hearthis.at/1056835/
+  hearthis: https://hearthis.at/1056835/
   tracklist:
     - In-Deed - Mesmerized
     - Dauntless - Fate
@@ -366,7 +366,7 @@
     - Mav - A Journey Through Skylines(but Sweet Dreams) (Microspacefunk Bop remix)
     - Rainforest - The Returned
 - guest: Goreteks
-  hearthis_id: https://hearthis.at/1048238/
+  hearthis: https://hearthis.at/1048238/
   tracklist:
     - Dead Man’s Chest “Farseer” [Ingredients]
     - Kid Lib “Absent Awareness” [Fresh 86]
@@ -386,7 +386,7 @@
     - Homemade Weapons & Red Army “M-Theory” [Weaponry]
     - Ricky Force “Plastic Mentality” (feat Tamen) [Repertoire]
 - guest: Grym
-  hearthis_id: https://hearthis.at/1038456/
+  hearthis: https://hearthis.at/1038456/
   tracklist:
     - Lucy - Drink - Samurai Music
     - Akinsa - Warpaint - Onset Audio
@@ -416,7 +416,7 @@
     - Apostroph - Dementia - Eternia
     - Broken Promise feat. Chet Matuto - Catapult - Nord Label
 - episode: '080'
-  hearthis_id: https://hearthis.at/1031218/
+  hearthis: https://hearthis.at/1031218/
   tracklist:
     - Need For Mirrors - 808 Mindstate
     - Gerra & Stone - Almost U (Mako's Faithful Remix)
@@ -445,7 +445,7 @@
     - Dycide - Ceremony
     - K-Rob - Life Forms
 - guest: Enorme
-  hearthis_id: https://hearthis.at/1023168/
+  hearthis: https://hearthis.at/1023168/
   tracklist:
     - Ruffhouse - The Foot (Loxy & Resound Remix) [UVB-76 Music]
     - Sam KDC - Incarcerate [31 Recordings]
@@ -469,7 +469,7 @@
     - Ruffhouse - Demand [Ingredients Records]
     - Instra:mental - No Future [Non Plus Records]
 - episode: '079'
-  hearthis_id: https://hearthis.at/1015309/
+  hearthis: https://hearthis.at/1015309/
   tracklist:
     - Adred - Just a Moment
     - Solotek - Love Birds
@@ -494,7 +494,7 @@
     - Glyphic - Tunnel Vision (Kolanek Remix)
     - Ziyal - Project 15
 - guest: 'Brusten'
-  hearthis_id: https://hearthis.at/1007284/
+  hearthis: https://hearthis.at/1007284/
   tracklist:
     - amigo - relationships
     - hidden life (Eusebeia) - Deem Deeper
@@ -519,7 +519,7 @@
     - Swayz- ??
     - Brusten and Mighty boogie - ??
 - guest: 'Nic TVG'
-  hearthis_id: https://hearthis.at/995606/
+  hearthis: https://hearthis.at/995606/
   tracklist:
     - Dissident - Oxymoron [Pinecone Moonshine]
     - Nic TVG - The Dog who Walks on Windowsills [Pinecone Moonshine]
@@ -540,7 +540,7 @@
     - ???? - Unfinished Track
     - Fracture & Neptune - Visions [Subvert Central Recordings]
 - guest: 'Diverge'
-  hearthis_id: https://hearthis.at/978405/
+  hearthis: https://hearthis.at/978405/
   tracklist:
     - Heathered Pearls - Precious Dive (Throwing Snow Remix) [Ghostly International]
     - Monic - Habits [Osiris]
@@ -563,7 +563,7 @@
     - Jason oS - Flatline [Modern Urban Jazz]
     - Stranjah - Intalus VIP [Renegade Hardware]
 - episode: '078'
-  hearthis_id: https://hearthis.at/972752/
+  hearthis: https://hearthis.at/972752/
   tracklist:
     - Hatti Vatti - Forgotten Scores
     - Proto Adam & Alpha Eve - no ID
@@ -596,7 +596,7 @@
     - Acid Lab - Tundra
     - Dissident - Shreds
 - episode: '077'
-  hearthis_id: https://hearthis.at/955814/
+  hearthis: https://hearthis.at/955814/
   tracklist:
     - Subject Lost - SQR-01
     - Consequence - Lime Green
@@ -621,7 +621,7 @@
     - Fanu - Tunnel Vision (Fanu's Lightless Revamp)
     - Low Profile - At the Dusk
 - episode: '076'
-  hearthis_id: 955814
+  hearthis: 955814
   tracklist:
     - Subject Lost - SQR-01
     - Consequence - Lime Green
@@ -647,7 +647,7 @@
     - Low Profile - At the Dusk
 
 - guest: Mark Kloud
-  hearthis_id: 950179
+  hearthis: 950179
   tracklist:
     - Sam Prekop - Invisible
     - Margari’s Kid - I Lose
@@ -673,7 +673,7 @@
     - Out of Fuel - Tension
     - Yushan - Mill Valley
 - episode: '075'
-  hearthis_id: 941807
+  hearthis: 941807
   tracklist:
     - Synth Sense - The Forgotten Loops #1
     - Hysee- Isolator
@@ -699,7 +699,7 @@
     - Ital Tek - Vacuum I
 
 - guest: Elusive Beats
-  hearthis_id: 935200
+  hearthis: 935200
   tracklist:
     - Hecq - II
     - Pact Infernal - Circle VI [Heresy]
@@ -721,7 +721,7 @@
     - The Kilimanjaro Darkjazz Ensemble - Xtabay
     - The Future Sound Of London - Moments of Isolation
 - episode: '074'
-  hearthis_id: 929113
+  hearthis: 929113
   tracklist:
     - Hydro & Kolectiv - Mistrust
     - Soularize - Who Am I?
@@ -758,9 +758,9 @@
     - Brad Impact - Heading Back To Harlem
 
 - guest: Epilleptech
-  hearthis_id: 919981
+  hearthis: 919981
 - guest: 'dj Y2'
-  hearthis_id: 892685
+  hearthis: 892685
   tracklist:
     - The Last Hero - Cubism
     - Homemade Weapons - Sleep Terror
@@ -788,7 +788,7 @@
     - Spectron - Jungle War - Dub
     - Konflict - Messiah ( Akinsa Remix )
 - guest: 'Elwood'
-  hearthis_id: 871647
+  hearthis: 871647
   tracklist:
     - Sam KDC – TVNDNF
     - Ghost Warrior – Lost Moon
@@ -816,7 +816,7 @@
     - Sam KDC – Clairvoyance
     - ASC - Suncycles
 - episode: '073'
-  hearthis_id: 861694
+  hearthis: 861694
   tracklist:
     - Clearlight & Owl - ???
     - Owl - Swing Water
@@ -843,7 +843,7 @@
     - Commix - Generation
     - Kush T - Quiet Minds
 - guest: 'Entire'
-  hearthis_id: 850862
+  hearthis: 850862
   tracklist:
     - SARS & AR - Stolen Scenes Of Golden Rush
     - Monic - Morse
@@ -870,7 +870,7 @@
     - Hathor & Sotus - Constant Turning (Overlook RMX)
     - Entire - Relicts Burning After A Massacre
 - guest: 'Lyceum'
-  hearthis_id: 841060
+  hearthis: 841060
   tracklist:
     - Yoshimi - I Had So Many Names [Dream Catalogue]
     - Pact Infernal - Circle I (Limbo) [Samurai Horo]
@@ -897,7 +897,7 @@
     - Synth Sense - Stream Of Thought [Auxiliary]
     - ASC - Space Echo [Samurai Red Seal]
 - episode: '072'
-  hearthis_id: 829746
+  hearthis: 829746
   tracklist:
     - DAAT - 7D
     - Dj Ink - Lost In Time
@@ -928,9 +928,9 @@
     - Calibre - Justice
     - Mauoq - Equator
 - guest: 'Akinsa'
-  hearthis_id: 821709
+  hearthis: 821709
 - episode: '071'
-  hearthis_id: 803377
+  hearthis: 803377
   tracklist:
     - Cirrus - Lost In The Desert
     - Protone - Ridestep
@@ -965,9 +965,9 @@
     - Champa B - Yout Man
     - Space Depth - Mokusei
 - guest: 'Buddhafinger'
-  hearthis_id: 782720
+  hearthis: 782720
 - guest: Djinn
-  hearthis_id: 756024
+  hearthis: 756024
   tracklist:
     - Paradox – No Consensus (Paradox Music)
     - Overlook – Kyoto (Renegade Hardware)
@@ -988,17 +988,17 @@
     - Double O – Dark Water (Wreka Music)
     - Seba & Paradox - As If (Critical)
 - guest: Rougestate
-  hearthis_id: 745980
+  hearthis: 745980
 - guest: Owneath
-  hearthis_id: 730075
+  hearthis: 730075
 - guest: 'Niiki Bushido'
   mixcloud: https://www.mixcloud.com/SpecialRequest/vykhod-sily-podcast-niiki-bushido-guest-mix/
 - guest: 'K-Rob'
-  hearthis_id: '681531'
+  hearthis: '681531'
 - guest: 'LoKi'
-  hearthis_id: '668492'
+  hearthis: '668492'
 - episode: '070'
-  hearthis_id: '649892'
+  hearthis: '649892'
   tracklist:
     - Rhyming in Fives - Exposed
     - Fushara, Daat - Through the Eyes (DAAT remix)
@@ -1059,7 +1059,7 @@
     - BattleDrone - Post Human Era
     - Fracture - Remember the Time (feat. Lucie La Mode)
 - episode: '068'
-  hearthis_id: 615032
+  hearthis: 615032
   tracklist:
     - Brusten - Twisted Reality
     - D Flect & Arcus - Ghosts
@@ -1086,9 +1086,9 @@
     - Ena - Insective
     - Seba - Jungle Music
 - guest: 'Alg0rh1tm'
-  hearthis_id: 607282
+  hearthis: 607282
 - guest: 'Out Of Fuel'
-  hearthis_id: 576640
+  hearthis: 576640
   tracklist:
     - Rings Around Saturn - Wash Away
     - Hydro & Sam KDC feat. Modabke - Voyage Nocturne
@@ -1116,7 +1116,7 @@
     - Sam KDC - Templar
     - Out Of Fuel - Paranoid
 - episode: '067'
-  hearthis_id: 573321
+  hearthis: 573321
   tracklist:
     - RQ - Cherry
     - Transparent - Displaced
@@ -1143,7 +1143,7 @@
     - Local Heroes - And Peace Started
     - Akuratyde - Embrace
 - guest: 'Phuture-T'
-  hearthis_id: 571853
+  hearthis: 571853
   tracklist:
     - Kindred Spirit - Holy Amen Love
     - Freddy Mc Gregor - Murderer Sound (Phuture-T Jungle Lick)
@@ -1164,7 +1164,7 @@
     - Equinox - Hard Meditation
     - Ricky Force - Celestial
 - guest: 'Yankowsky'
-  hearthis_id: 554448
+  hearthis: 554448
   tracklist:
     - martianMan - South Paw [Goreteks remix]
     - Greekboy - Fighting
@@ -1182,7 +1182,7 @@
     - Urban Trip - Polar Circle
     - Method One - Symbol #5.1
 - guest: 'Eschaton'
-  hearthis_id: 535706
+  hearthis: 535706
   tracklist:
     - Eschaton - Aquila
     - The Dicemen - Feel So Good
@@ -1200,7 +1200,7 @@
     - The Drumkilla - Event Horizon
     - Audioholic - Tallinn Minute
 - episode: '066'
-  hearthis_id: 490531
+  hearthis: 490531
   tracklist:
   - Urban Trip - Behind Edge
   - Dycide - Haku
@@ -1230,10 +1230,10 @@
   - Seba, Krazy - Imperial Moment
   - The Binary Collective - Binary Theme
 - guest: 'Dop-e'
-  hearthis_id: 490553
+  hearthis: 490553
   tracklist:
 - episode: '065'
-  hearthis_id: 460564
+  hearthis: 460564
   tracklist:
     - Synth Sense - Stream of Thought
     - Mikarma	- Initiator
@@ -1259,10 +1259,10 @@
     - Synth Sense - Breathe
     - Mauoq & Dyl - Dunes
 - guest: 'Istota'
-  hearthis_id: 460517
+  hearthis: 460517
   tracklist:
 - episode: '064'
-  hearthis_id: 446755
+  hearthis: 446755
   tracklist:
   - Klute - Arboretum
   - Deskai - Echo
@@ -1288,7 +1288,7 @@
   - DogsHeart - Ph (feat Jaskin)
   - DJ Stretch - Hungry Tiger (Ricky Force Refix)
 - guest: 'Relapse'
-  hearthis_id: 441220
+  hearthis: 441220
   tracklist:
   - Parallapse - Lux In Tenebris (Dubkraft)
   - Parallapse - Last Walk Home (Dubkraft)
@@ -1312,7 +1312,7 @@
   - Parallel - She Tastes Like Whiskey (Unsigned)
   - Parallapse - Xxpth (Unreleased)
 - episode: '063'
-  hearthis_id: 434845
+  hearthis: 434845
   tracklist:
   - Felix K	- Flower of Destruction "#4"
   - Owl - Rhea Calling
@@ -1336,7 +1336,7 @@
   - RQ - Gloss
   - Need For Mirrors - Sour Diesel (feat. Edward Oberon)
 - episode: '062'
-  hearthis_id: 370035
+  hearthis: 370035
   tracklist:
   - Akuratyde - Breathe You In
   - Elemental - Zero Point Energy
@@ -1358,7 +1358,7 @@
   - Rufige Kru - Monkey Boy (Doc Scott Remix
   - G.H.O.S.T - Sometimeish
 - episode: '061'
-  hearthis_id: 345614
+  hearthis: 345614
   tracklist:
   - Theme - Scene4
   - C-Side - Defuse
@@ -1384,7 +1384,7 @@
   - Sinistarr - Solar 9 (feat. Redeyes)
   - Metafloor - Stairway To Eleven
 - episode: '060'
-  hearthis_id: 310404
+  hearthis: 310404
   tracklist:
   - The Insiders - Pathways (feat Rider Shafique)
   - Arcus & D Flect	 - Arcane Matters
@@ -1407,10 +1407,10 @@
   - Goreteks - Affluenza VIP
   - Fr.om - Waitin'
 - guest: 'Slimy'
-  hearthis_id: 298986
+  hearthis: 298986
   tracklist:
 - guest: 'Law & Wheeler'
-  hearthis_id: 278152
+  hearthis: 278152
   tracklist:
    - Rufige Kru -  T3 - Metalheadz
    - Tech Itch - The Dreamer - Moving Shadow
@@ -1427,7 +1427,7 @@
    - Innervisions - Liquid Velvet - Reinforced
    - Project 23 -  Sugarize 'Lost Inna Dream' (Boymwerang Remix) - Dorado
 - episode: '059'
-  hearthis_id: 260193
+  hearthis: 260193
   tracklist:
   - Jamper, Clima - Ritual (Clima Remix)
   - Morphy - Dusty Stylus (Kjubi's Crystal Dust Version)
@@ -1447,7 +1447,7 @@
   - Hexer - The Bomb (Sub Remix)
   - Mark Kloud - Cessation Of Thought
 - episode: '058'
-  hearthis_id: 250063
+  hearthis: 250063
   tracklist:
   - DAAT - Sixth Gear
   - Eissi - Hiddenwave
@@ -1471,7 +1471,7 @@
   - Dyl - Element 5
   - Snaper - Sick Tape
 - episode: '057'
-  hearthis_id: 242654
+  hearthis: 242654
   tracklist:
   - Scale - Silent But Deadly
   - Mental Forces - Confusion
@@ -1492,7 +1492,7 @@
   - Enjoy - One More
   - ASC - Response Code
 - guest: 'Mr. Diamond'
-  hearthis_id: 237480
+  hearthis: 237480
   tracklist:
     - Halogenix - Ontology
     - Om Unit - Goveners Bay
@@ -1518,97 +1518,97 @@
     - Dominic Ridgway - You'll Never Be Mine
     - Etherwood - Say Life
 - guest: SkyLabCru
-  hearthis_id: https://hearthis.at/551287/
+  hearthis: https://hearthis.at/551287/
 - guest: dj Darrel
-  hearthis_id: https://hearthis.at/551290/
+  hearthis: https://hearthis.at/551290/
 - guest: Zul
-  hearthis_id: https://hearthis.at/551288/
+  hearthis: https://hearthis.at/551288/
 - guest: Retrospection
-  hearthis_id: https://hearthis.at/637749/
+  hearthis: https://hearthis.at/637749/
 - guest: Spotovsky
-  hearthis_id: https://hearthis.at/551280/
+  hearthis: https://hearthis.at/551280/
 - guest: I Wannabe
-  hearthis_id: https://hearthis.at/551279/
+  hearthis: https://hearthis.at/551279/
 - guest: Mechncl
-  hearthis_id: https://hearthis.at/551278/
+  hearthis: https://hearthis.at/551278/
 - guest: Dozak
-  hearthis_id: https://hearthis.at/551273/
+  hearthis: https://hearthis.at/551273/
 - guest: Red Catz
-  hearthis_id: https://hearthis.at/551272/
+  hearthis: https://hearthis.at/551272/
 - guest: dj 1985
-  hearthis_id: https://hearthis.at/551270/
+  hearthis: https://hearthis.at/551270/
 - guest: Khords
-  hearthis_id: https://hearthis.at/551269/
+  hearthis: https://hearthis.at/551269/
 - guest: dj Q^ART
-  hearthis_id: https://hearthis.at/551268/
+  hearthis: https://hearthis.at/551268/
 - guest: Skutta Records Exclusive
-  hearthis_id: https://hearthis.at/551266/
+  hearthis: https://hearthis.at/551266/
 - guest: dj DX
-  hearthis_id: https://hearthis.at/551265/
+  hearthis: https://hearthis.at/551265/
 - guest: dj Ph
-  hearthis_id: https://hearthis.at/551264/
+  hearthis: https://hearthis.at/551264/
 - guest: Space Depth
-  hearthis_id: https://hearthis.at/551263/
+  hearthis: https://hearthis.at/551263/
 - guest: Silent
-  hearthis_id: https://hearthis.at/551260/
+  hearthis: https://hearthis.at/551260/
 - guest: Nwave
-  hearthis_id: https://hearthis.at/551258/
+  hearthis: https://hearthis.at/551258/
 - guest: Red Army
-  hearthis_id: https://hearthis.at/551255/
+  hearthis: https://hearthis.at/551255/
 - guest: Saburov
-  hearthis_id: https://hearthis.at/551254/
+  hearthis: https://hearthis.at/551254/
 - guest: Animado
-  hearthis_id: https://hearthis.at/551251/
+  hearthis: https://hearthis.at/551251/
 - guest: Marginal
-  hearthis_id: https://hearthis.at/551244/
+  hearthis: https://hearthis.at/551244/
 - guest: Rocket Delight
-  hearthis_id: https://hearthis.at/549852/
+  hearthis: https://hearthis.at/549852/
 - guest: Astraoum
-  hearthis_id: https://hearthis.at/325212/
+  hearthis: https://hearthis.at/325212/
 - guest: nScape
-  hearthis_id: https://hearthis.at/218165/
+  hearthis: https://hearthis.at/218165/
 - guest: Defeat Soul
-  hearthis_id: https://hearthis.at/218160/
+  hearthis: https://hearthis.at/218160/
 - guest: SL1
-  hearthis_id: https://hearthis.at/218153/
+  hearthis: https://hearthis.at/218153/
 - guest: dj Rage
-  hearthis_id: https://hearthis.at/1320163/
+  hearthis: https://hearthis.at/1320163/
 - guest: Slaine
-  hearthis_id: https://hearthis.at/1320166/
+  hearthis: https://hearthis.at/1320166/
 - guest: Dasha Dippy
-  hearthis_id: https://hearthis.at/1320172/
+  hearthis: https://hearthis.at/1320172/
 - guest: Tokkata
-  hearthis_id: https://hearthis.at/1320181/
+  hearthis: https://hearthis.at/1320181/
 - episode: '056'
-  hearthis_id: 233089
+  hearthis: 233089
   tracklist: [Soundvault - Summer Breeze,Snaper - Dissonant,Survey - Pressure,Loxy & Overlook - Harbour,
   Soundvault - Independent,Spirit - Can't Let Go,Amit - The Tube,Overlook & Loxy & Resound - The Lodge,
   Conspired Within - Algernon,Falling Skies - Tremor,Survey & ILL K - Warp Resistant,
   Teddy Killerz- Countdown (No Rules & Kailash Remix),Todd Buchler - Onyx,Tim Reaper - Intent,
   Falling Skies - Land of the Lost,Terminus - Icefield,Need For Mirrors - True Lies,Eveson - Natural]
 - guest: 'Asymmetric'
-  hearthis_id: 228694
+  hearthis: 228694
   tracklist: [1.Relapse - Sharkfish,Dom & Roland - Deckards Theme (B-Key Remix),Exclusion Principle – Don't Live In Fear,
   Bizzy B - 16 Track Relick,Smyla - Last Of The Kings,Asymmetric -  Bear's Den,(NSF) Sum - Duane Barry 2345T,
   Asymmetric -  When The Sun Is Down VIP,Champa B – Soldiers Of The Cause,Warbreaker - Dead Man Jungle,Asymmetric - Basement,
   "Dub One,G-Netic — Pressure Of 10.000",Asymmetric -  What's Going On  VIP]
 - episode: '055'
-  hearthis_id: 220239
+  hearthis: 220239
   tracklist: [Dycide - C10,Thing - Pssst,Merge - Long Time Tingz,Digital & Spirit - Spiral,Torn & Dailiv - The Grader,
   "Kid Drama - Versus #1",Calibre - Concrete,Jaybee - Kill Dem,NotioN - Thundered Dragon,Paradox - Rockdown,
   "Protone,Roygreen - Guidance",Thing - Blinded,K-Rob - Grounders,Kasious - Danger,Manix - Special Request (Ricky Force Remix),
   Deeperheightz - Clinch,Automate - Breaksrus,Served Chilled - Ghost,The Untouchables - Septimus,Silent Dust - The Deku Tree]
 - guest: 'Brandon Metaphysic Audio'
-  hearthis_id: 219078
+  hearthis: 219078
 - episode: '054'
-  hearthis_id: 215042
+  hearthis: 215042
   tracklist: [Nmber8 - Sishu,Merge - Chanting,
    Clearlight & Owl - Lagoon Dub,C-Side - Jah,Crypticz - Transmission,House Of Black Lanterns - Take Control,
    "Kid Drama - Versus #2",Dyl - Occultism,Ena x Overlook - Nadsat,Digital - A Message,
    Thing - Want U,George Commix - Ghost Loops,Machinedrum - Rise N Fall (dBridge Fall n Rise Remix),Intriga - Phoebe,
    Loxy - Artical,Souljah - Fade 2 Black,Paradox - Divination,Digital & Spirit - Mosquito]
 - guest: 'dj Rude Launch'
-  hearthis_id: 212951
+  hearthis: 212951
   tracklist: [Detritus - US,Ganja Kru - Science,Pascal - Real Vibes,
    Hype - Only One Life (Ganja Kru Remix),Hype - World,Hive - Behold The Pale Horse (B Boy3000 Remix),
    S Man - Do Your Duty Soldier,Dissonance - Evil Detector,The Pedge - What's Up Now (Future Cut Remix),
@@ -1616,12 +1616,12 @@
    Tyke - Own It,Block & Escher - Madness,Gremlinz & Homemade Weapons - unknown,Jaydan - The Shadows,
    Ruffhouse - The Domino Effect,SPY - Rise Again,Ramadanman - Reclaim,St Kaaz - Silver]
 - guest: 'Greenleaf'
-  hearthis_id: 208814
+  hearthis: 208814
   tracklist: [Tim Reaper & Parallel-Your Life,Rumbleton-Unification,Theory-Goodbye,Double O-Rock Stone,
   Parallel-Tribute,Skitty-Jigga,Greenleaf-Nothing & No One,Threshold-Shut It!,
   Naphta-Jungle Republic (Ricky Force Darkside Edit),Greenleaf-Bad Man]
 - episode: '053'
-  hearthis_id: 199939
+  hearthis: 199939
   tracklist: [DYL - Element 1,Red Army - Bixby Bridge,dBridge - Fire Fall You,
     Dan HabarNam - Rendering the Garlic Boy (Loxy & Resound Remix),Digital & Spirit - Captive,Dissident - Kenoma,
     Coleco - Micro,Erkiu - Csa,Cryogenics - Scatter,Haunted Drum - Nothing in Return,
@@ -1630,20 +1630,20 @@
     Mystic State, Gremlinz - Don't Start (feat. Megatron MC),Deeperheightz - Clinch,St Kaaz - Steone,
     Fracture, Chimpo - Hard Food,Mark Kloud - Irradiance,Vaccine- Nurse]
 - episode: '052'
-  hearthis_id: 187225
+  hearthis: 187225
   tracklist: [Marvel Cinema  - Chocolate Wars,Dj Trax  - Be Moved,Tim Reaper - Liquid Lunch, Double O - Weak Heart (Sub Remix),
     Joakuim - D.F,Andyskopes & Mr. Joseph - Thrash Talk,Macc - Escape From,Nick TVG - Continous,
     Hidden Paranoid Society - Omega,Disarae - Hybrid,Icicle - Broken Fingers,Rainforest - Jah Science,
     Theory  - Jungle Soul,Mineral - Twisted Dream,Reactiv  - Sirocco,Unknown - Unknown,Dak - Skunk]
 - episode: '051'
-  hearthis_id: 179166
+  hearthis: 179166
   tracklist: 	[AXF - After Sunshine,Mark Kloud - Morning Darkness,Mako - All We Can Do
       Quentin Hiatus - Understatement,Derek Carr - On Parole,Johnny Kon - Spotlight Garden
       AXF - Yaman,Rainforest - Babylon Shall Fall,dRamatic, dbAudio - Gappy,Alpha Omega - Neutrons
       Martsman - Some Minimal Business,Crypticz - Promise,RQ - Scarab Moon,Dailiv - Poltergeist
       Kai - Clamped,Roni Size - Strictly Social,Quentin Hiatus - Chocolate Cosmos,Mako - Too Broke To Get It]
 - episode: '050'
-  hearthis_id: 178038
+  hearthis: 178038
   tracklist: [Fracture & Mark System - In The Shade (Secret Location Mix), Future
       Cut - Hideous Kinky, Kodama and Acid Lab - Parameter 2, Maurus - Emerald, Jazzatron
       - Bonci, Intel - Dread, Bazil - Once Red, Loxy - Righteous Path (Ahmad Remix),
@@ -1651,7 +1651,7 @@
       feat. P Fine, dgoHn - Internal Ropes, Dj Verb - Lockdown, Nucleus & Paradox
       - Fuzzy Something, Mark Kloud - Driftwood]
 - episode: 049
-  hearthis_id: 178043
+  hearthis: 178043
   tracklist: [Synkro - Falling, Fioka - Step Array, Om Unit - Mystic, CJ Weaver -
       Bulbous, Fane - Dune, SND - Door In Mirror, Thing - Between Walls, Mystic State
       & DYL - A Chemical Love Story, Antagonist & Paragon - Plague, Clarity - Segment,
@@ -1660,7 +1660,7 @@
     SND - Prosopagnosia, 'Mystic State, Jaydrop & Pandaka - Oversight', Foreign Concept
       and DRS - Falling Stars (Hyroglifics Remix)]
 - episode: 048
-  hearthis_id: 178047
+  hearthis: 178047
   tracklist: [DYL - Phoenix, Thomas B - Looking Down, Deeper Heightz - North Shore,
     Paluca - Bad Verdict, Acid Lab - Ultra, Decade - Expansion, Jumpat - Trapped,
     Indidjinous - Reorient, Larrge - Transcend, Katz - Fantastic Mr.Fox, Thing - Feels,
@@ -1668,7 +1668,7 @@
       - Walking The Dog, Kiat - Feeder, Need For Mirrors - Odd Future, Alcrani - Phantoms,
     Jumpat - Round N Round., Hidden Element - Faster But Slower]
 - episode: '047'
-  hearthis_id: 178053
+  hearthis: 178053
   tracklist: [Dave Hoax - Running Away, Red Army - Anigatiga, Proto Adam & Alpha Eve
       - Thoughtflow, Clima - Rights and Lies, Cryogenics - Crooked Line, Hiten - Blot
       Out, Scale - Drummin Till Dawn (Dave Hoax remix), Centaspike & Indidjinous -
@@ -1676,7 +1676,7 @@
       -  Rohypnol, Dubtek - The Response, Owneath-Second Perfect Number, Scar - Ruby,
     Earl Grey - Bermuda Triangulated, Cryogenics - Dark Tribal, Sabre - Yoga]
 - episode: '046'
-  hearthis_id: 178060
+  hearthis: 178060
   tracklist: [Semaphore - Rebirth, Macc - Messier 51 (with Duffah), Slaine  - Hostage,
     Clima - Unknown, Antagonist - Eighty Five, Loxy - Triangle Of Captivity, Theory
       - Breadline, Nucleus & Paradox - Electropaque, RQ - Lmntz, Fanu - Paracosm,
@@ -1685,7 +1685,7 @@
       (Abstract Elements Remix), Dissident-Rotten Acid, Vromm - Fields Of Vengeance,
     Clarity - Hell's Gate (feat T.Man), Low Profile - The End]
 - episode: '045'
-  hearthis_id: 178066
+  hearthis: 178066
   tracklist: [Earl Grey - Bob Dub, Red Army - Creature Dub, 'Glyph,Gremlinz - Evolution',
     Dyl - Shadows, Owneath - Unknown, 'Centaspike, Indidjinous - Ominous Mystery',
     'Nucleus, Paradox - Prism', Abstract Elements - Neocube, Ibunshi - Relentless,
@@ -1693,7 +1693,7 @@
     Greenleaf - Who, Tvg Hates Tvg - Mantis (TVG Hates TVG remix), Relapse - My Hiding
       Place, Macc - Bridge Over Broken Water]
 - episode: '044'
-  hearthis_id: 178071
+  hearthis: 178071
   tracklist: ['Amoss - Lista [Horizons Music]', 'Moreno - Imagination [Omni Music]',
     'Mystic State - Swift Exit [Sickbrain Music]', 'Prtcl - Surface Noise [Flexout
       Audio]', 'Alix Perez - Gully Halves [Exit Records]', 'Dispersion - Place Your
@@ -1707,7 +1707,7 @@
       Centurion [CX Digital]', 'Mako - Tell Me Something ( feat.Detail ) [Metalheadz]',
     'Thing - Outer Lands [Blu Mar Ten Music]']
 - episode: '043'
-  hearthis_id: 178082
+  hearthis: 178082
   tracklist: ["Central Industrial - Simstim", Hathor - In The Docks, ASC - Matter
       Of Time, Fushara - Tech Clique, Dominic Ridgway - Killa, Hathor & Sotus - Delirium,
     Blocks - Patriarch, ASC - Polynomial, Adam Elemental Ft. Clear Skies - Winter
@@ -1715,7 +1715,7 @@
       & Escher - Madness, Loxy & Matt U - Dictate, Keosz & Trilo - Construction, 'Ahmad,
       Gremlinz & Mental Forces - Shiva', Om Unit - Timelines]
 - episode: '042'
-  hearthis_id: 178085
+  hearthis: 178085
   tracklist: [They Live - Pure Palms, Heart Drive  -  Module Eight (New Mix), Ena
       - Dipteran, Sonar Circle - Soul, dBridge  -  Detuned Heart, Ghost Warrior -
       Abyss, Dyl & Cult Key - Blocked (feat. Malika), Datari - White Light, Nsf Destroy2k
@@ -1723,7 +1723,7 @@
     Friske - Speculate, SB81 - Blueprints, Limit - Zero One, Nebula - Purity, Hidden
       Element - How Can I Trust You]
 - episode: '041'
-  hearthis_id: 178087
+  hearthis: 178087
   tracklist: ["Central Industrial - Simstim", Hathor - In The Docks, ASC - Matter
       Of Time, Fushara - Tech Clique, Dominic Ridgway - Killa, Hathor & Sotus - Delirium,
     Blocks - Patriarch, ASC - Polynomial, Adam Elemental Ft. Clear Skies - Winter
@@ -1731,7 +1731,7 @@
       & Escher - Madness, Loxy & Matt U - Dictate, Keosz & Trilo - Construction, 'Ahmad,
       Gremlinz & Mental Forces - Shiva', Om Unit - Timelines]
 - episode: '040'
-  hearthis_id: 178115
+  hearthis: 178115
   tracklist: [Dominic Ridgway - Lost In Space, Owl  - Astroparticle, Fullarity - Cavity,
     Acid Lab - Macumba, Threshold & Octave Shift - Combo 4 (Disarae Remix), Antagonist
       - The Last City, Transparent - Wretch, Gunston - Resurgence, Giocator - Bowel
@@ -1739,7 +1739,7 @@
     Joakuim - Buble, Mental Duo - Atomicity Failure, Owl  - Return To Earh, Acid Lab
       - Absorber, Dyl - Anishinaabe (Clima Rmx), Syndicate - Backdrifts]
 - episode: 039
-  hearthis_id: 178517
+  hearthis: 178517
   tracklist: [Escher  - Spirit Bounce, Paradox & Nucleus - Analogue Life, Dyl - Esotericism,
     Clima -  Digital Style (Prolific Dub), Last Hero - Centurion, Epilleptech - Premonition
       (Dexta & Mauoq Refix), Dayni & Kenobi -  Junkanoo, Epilleptech - Peru, DBR (UK)
@@ -1750,7 +1750,7 @@
       Motive - MIR, 'LA Johnson, Baddesley & Resound - Deep Architecture (Foundation
       Mix)']
 - episode: 038
-  hearthis_id: 178518
+  hearthis: 178518
   tracklist: ["DAWN -  \u8D77\u6B7B\u56DE\u751F", Heart Drive - Format Affection,
     ASC - No Secrets, Acid Lab - Going In Circles, 'Altered Perception, Zach Herer
       - The Rain (Kush T remix)', Tokyo Prose - 16 Bar Cycles (feat. Christoph El
@@ -1759,7 +1759,7 @@
       - Hypnosis (feat. Understate), Stray - Contract, Larrge - Doppler, Eleven8 -
       Hadal Zone, SB81 - Arq]
 - episode: '037'
-  hearthis_id: 178525
+  hearthis: 178525
   tracklist: [Heart Drive - When Droids Cry, Marginal - Anesthesia Is Useless, 'Dexta,
       Mauoq, Genotype - The Chump', Pessimist - Girl Wants A Biscuit, 'Cern, Overlook
       - Nevada Ghost', 'DLR, Mako - Your Mind', Phuture-T - Tactile, Nucleus & Paradox
@@ -1770,7 +1770,7 @@
       Small Things Matter (Indidjinous remix), Dom-Unique - D Bass, SB81 - Blueprints,
     Blocks & Escher - Broken]
 - episode: '036'
-  hearthis_id: 178526
+  hearthis: 178526
   tracklist: [Mental Forces & Concealed Identity - Taksim Dub, Villem & McLeod - Putting
       Down Roots, Thing & Defo - Final Frontier, Clima - Ordinary Journey, Homemade
       Weapons - Saibot, SB81 - Dancer In The Dark, Cirrus & Epilleptech - Simon, Tephra
@@ -1780,7 +1780,7 @@
       Darwin', Concealed Identity - Kuniyoshi, Cryogenics - I Have Seen, Acid Lab
       Presents Kodama - Black Ice, dBridge - City Of Lonely Runaways]
 - episode: '035'
-  hearthis_id: 178527
+  hearthis: 178527
   tracklist: [DAAT - Signs, Brad Impact - If, Clima - Inner Soul, Kid Drama - What
       Used To Be, Shebuzzz - Can't Speed Up, Hidden Turn - What's Going On, Jazzatron
       - Enza2, Hyroglifics -Bay City Ballers Club, Jumpat - Dubwar (The Untouchables
@@ -1789,7 +1789,7 @@
       Starkwood, Sporophyte - Rascal (Dubmongers Parrots At My Guiness dub), Shebuzzz
       - We Bring You The Future]
 - episode: '034'
-  hearthis_id: 178530
+  hearthis: 178530
   tracklist: [Theory - Babylon Dem (Dubmongers The Drum Machine Museum Dub), Arkaik
       - Babylon Dub, Future Roots- Roots Defender, Clima - Dub Life, Kjubi - Changes,
     Felix K - Ice, ASC & BVDUB - Symbol 2.1, The Last Hero - Earth Realm, RQ  - Resonate,
@@ -1798,7 +1798,7 @@
     Enei - The Artefact, Kobra - Turret, Pessimist - Minus, Stray - Saturday, Fracture
       - All My Love]
 - episode: '033'
-  hearthis_id: 178533
+  hearthis: 178533
   tracklist: [Infest & Parallel - We're Almost There, Dwarde - Otherworld, Ricky Force
       - Hardcore, Cryogenics - I Have Seen, Greenleaf - Feel The Vibe, Morphy The
       Dub Monger - Dusty Stylus (Bay B Kane remix), Dam Nation  - Effigy, Mako - What
@@ -1807,7 +1807,7 @@
       Proof', Nolige - Hunted (Remix), ID4 - Apollo Killa, Mikal - Spiritual, Scale
       - Beautiful Damage, ASC  - Surveillance, Mental Duo - Psyfunk]
 - episode: '032'
-  hearthis_id: 178535
+  hearthis: 178535
   tracklist: [Zacharia - Shaman (Red Army remix), Gremlinz - Fallen (J.Robinson &
       dj Ink remix), Kenesis - Braindance, Outer Heaven - Genjutsu, Thing - Untitled
       Render, Quadrant - Trompe L'oeil (HomeMade Weapons Remix), Centaspike - Prey
@@ -1817,7 +1817,7 @@
       Element - Reload Replay, Stereotype - Overtown Dub (Somejerk remix), Slaine
       - Hilltop]
 - episode: '031'
-  hearthis_id: 178536
+  hearthis: 178536
   tracklist: [ASC - Space Dub, Neurotoxin - Decades, Thing - Daydreamin, Rawst - Sunken
       Ruins (D.Ridgway Remix), Thomas B - Rusty Swing Set, 'Gremlinz,The Untouchables
       - Rumbleton  - Apache', Mako - I Used To Be Like You, dBridge - Metrodrone,
@@ -1826,7 +1826,7 @@
       Worries, 'Gremlinz, Displaced Paranormals - The Engineer', Nick Modern & Sektion
       feat. Kolectiv - Past Tense, Genotype - The Day After The Night, Space 3 - Mepo]
 - episode: '030'
-  hearthis_id: 178537
+  hearthis: 178537
   tracklist: [Marginal -  Harmonic  Sabotage, Cuelock - Invalid Code, Hatti Vatti
       - Palms (ASC remix), DjRum - DAM (Felix K Reinterpretation), Synkro - Fading
       Lights, Dyl - Anishinaabe, Seba - Mesmerism, 'Mental Forces, Ahmad & Deffman
@@ -1835,7 +1835,7 @@
       Colonies', Indidjinous - Chimera, Fre4knc - Flink, Dyl - Metamorphosis, Seba  -
       Science Fiction, Felix K - The A]
 - episode: 029
-  hearthis_id: 178578
+  hearthis: 178578
   tracklist: [Synkro - Nights Of Pleasure, Thing  - Distances, Loxy & Resound - Civil
       War, Arp XP - Five Black Forms, Loxy & Resound -  Anomaly, SGNL & Alcrani -
       Soul, Survey - Deflection, Homemade Weapons and Gremlinz - 11th Hour, Indigo
@@ -1844,7 +1844,7 @@
     Khords - Pris, Kid Drama - What Do You See, Method One - Moonlight Mile, Hidden
       Element - Perelom, Om Unit /Sam Binga -  Small Victories]
 - episode: 028
-  hearthis_id: 178589
+  hearthis: 178589
   tracklist: [Taiji Quan - Taiji Quan, Interline - Decay, Shaman- Satta, Fullarity
       - Monolith, Rawst - Santa Muerte, J.Robinson - Lion Music (feat. Sun Of Selah),
     "Asanyeh - Myths", Homemade Weapons - Kintaro, Mauoq - Dry Water, Rawst & D.Ridgway
@@ -1852,7 +1852,7 @@
       Strecher, Kasra & Enei - Breath, Fracture and Neptune - The Limit, Nasty Habits
       - Shadow Boxing (Om Unit Remix)]
 - episode: '027'
-  hearthis_id: 178599
+  hearthis: 178599
   tracklist: [Sabre - Cashmere For Christmas, Marginal -Elusive Moment, Owl - Mind
       Gate, ASC - Rare Earth, dBridge - Metrodrone, Rawst - Community, Thing - Wrong
       Take, Bredren - The Truth, Dyl - Anoxia, FD & Sam KDC - Bleak, Sam KDC - Erosion,
@@ -1862,7 +1862,7 @@
       Mateba - Entropy', Rawst & D.Ridgway - Primitive, Mos Pure - No Segregation
       Dub, Sam KDC - Lovesick]
 - episode: '026'
-  hearthis_id: 178612
+  hearthis: 178612
   tracklist: [RQ - Sorrow Of The Hunter, 'Dyl - ????', Klute - Birdland, Adam Elemental
       - Awakening, Asanyeh - Talk The Talk, Sam KDC - The Iron Gate, NotioN - The
       Happening, SB81 - Untitled Future, Darkhalf - No Reason, Sam KDC - The Iron
@@ -1871,7 +1871,7 @@
       Nothin'' (feat Flowdan - 3:47 edit)', Dak - Culture, 'Dominic Ridgway, Daat
       - Crashes', Kiyoko - Something To Think About]
 - episode: '025'
-  hearthis_id: 178623
+  hearthis: 178623
   tracklist: [Nether - Sunshower, 'Instra:mental & dBridge - White Snares', Machinedrum
       - Rise'n'Fall, Machinedrum - Gunshotta (Om Unit's Rollers VIP), Massacooramaan
       - Ivi Attua, System - Sound Man, Clima - Both Sides, Kid Drama - One 6 Eight,
@@ -1880,7 +1880,7 @@
     ASC - Dragnet, Enjoy- Then No Probs, Mecca  - Leviathan, Paranoid Society - Reversed
       Water Steams, dMinds - Subcrate, Xtrah - Cycles]
 - episode: '024'
-  hearthis_id: 178629
+  hearthis: 178629
   tracklist: ['Instra:mental - Fist Level 2B', DFRNT - Dark Spaces, Thing - Endless
       Lessons, ASC - Porcelain, Adam Elemental - Lonely Planet, Method One  - Clustered,
     Joe Seven - Juiced, St Files - EightSix, Rockwell - Rekohu Sunrise (X Untold),
@@ -1889,7 +1889,7 @@
       Kwality) - Skull & Bones, St Files - Eric Bristow, St Files -  Cold Front, Rockwell
       - Underpass, Morphy - Samsara]
 - episode: '023'
-  hearthis_id: 178651
+  hearthis: 178651
   tracklist: [Frederic Robinson Ft. Stray -Bloom, Es.tereo - Ether, Squelch & Displaced
       Paranormals - Planes Of Existence, Reza & Gremlinz - Bloom, Overlook - Clouds,
     Coma - Mechanism, Oliver York - Digital Native, Sinistarr - Scripted, Marcus Intalex
@@ -1898,7 +1898,7 @@
       Out & Snaper - Knowledge Is Not Enough, Photek - One Nation, Stray - LA Zoom,
     Sam Binga - Freezy]
 - episode: '022'
-  hearthis_id: 178661
+  hearthis: 178661
   tracklist: [ASC & Synth Sense - Glimpse, Altair & Silent Dust - Sakharov, Khords
       - Marine, Rhyming In  Fives ft Hana - With You, Daat  - 1999, Overlook - Street
       Spirit, Kyrist - Revolt (Gremlinz Remix), Sub - So Finster Die Nacht (Fracture's
@@ -1909,7 +1909,7 @@
     Sam Binga - 8Barr, 'Alix Perez, Riko Dan - Warlord', Hidden Element - Lost (feat
       Derrick Buma)]
 - episode: '021'
-  hearthis_id: 178662
+  hearthis: 178662
   tracklist: [Adam Elemental -  Exile, Thing - Snare Dub, Infest & Parallel - We're
       Almost There, Minor Rain -  Monoscope, ' Notion - Ruse', Survey  - Away (original
       mix), Hysee  - Mammoth, Dwarde  - Otherworld (original mix), Hidden Element
@@ -1918,7 +1918,7 @@
       Magic (Indidjinous Remix), Lynx (feat Kemo) - You Are Being Lied To, Daat -
       5D, "ASC - Fulcrum"]
 - episode: '020'
-  hearthis_id: 178675
+  hearthis: 178675
   tracklist: [Data  - Delicate, Fracture Ft. Dawn Day Night Sick Wid It, Synkro -  Prologue,
     Acid Lab -  Unit One, Consequence & FIS -  Cultural Trauma, "Ghost Warrior -\
       \ The Shining", Fanu - Toshiro, Ibunshee - Darkfall, "Kryptic Minds - Burnt\
@@ -1928,14 +1928,14 @@
     "Machinedrum - The Palace", Toltal Science  - Trespass, ' Ricky Force -  Hardcore',
     Andy Skopes - True Chord Redux VIP, Mantra - Credentials]
 - episode: 019
-  hearthis_id: 178748
+  hearthis: 178748
   tracklist: [Silent Dust - Eye of The Duck, "Rowl - Egipto (ASC Remix)", Om Unit
       - Le Singe, Machinedrum - Eyesdontlie, Acid Lab -  Detroit Soul, Antidote -
       Tribal Spirits (E.U Jungle Mix), Joakuim - JeL'veuOuais, Gunston  - Misconcept,
     Acid Lab -The Complex, Dally -  Pinnacle, Amit  - Human Warfare, Calibre feat
       Chimpo - Start Again, DBR UK - Policies (Morphy Remix), Breakage - Come Back]
 - episode: 018
-  hearthis_id: 178763
+  hearthis: 178763
   tracklist: [ASC & Sam KDC - Sonder, '??? -???', Mode - Stats, Vendetta & Displaced
       Paranormals - Frozen, ASC - Stay True, Fearful - Drag Your Feet (feat. Dyl),
     Mode - Warning, Curious - Walking Through Echos, 'dBridge & Instra:mental - Detroid',
@@ -1943,7 +1943,7 @@
       Source - Classic, nScape - Moonwalk, Ijo- Herbie's Talking, Reborn - What Julia
       Dreams About]
 - episode: '017'
-  hearthis_id: 178771
+  hearthis: 178771
   tracklist: ['Blocks, Escher & ASC - Heliocentric', Nether - Neptune, The Curity
       - Brightness, Curious - Iration, Loxy/Isotone - Ancients (Skeptical remix),
     'Genotype - Financial War: The Red Storm', Loxy/Isotone  - Cylon Theme, The Curity
@@ -1952,7 +1952,7 @@
     Genotype - The Day After The Night, Survival & Break - The Year 2133 VIP, Sunchase
       - Keyring]
 - episode: '016'
-  hearthis_id: 178782
+  hearthis: 178782
   tracklist: [Direct Motion  - Part Of Me, Theory - Frenemy, Genotype -  Jam That
       Feel, Bachelors Of Science & Kuru - What We Need (instrumental), Thing - Hiding
       Places, Ruffhouse & Clarity - Aphasia, Spirant - Redshift, Hyroglifics - Kodo,
@@ -1961,7 +1961,7 @@
       Escher, Loxy & Resound - Monsters', Nether - Oracle, Sam KDC - Surrender, Hidden
       Element - Nr 13]
 - episode: '015'
-  hearthis_id: 178784
+  hearthis: 178784
   tracklist: [Sub  - The Shadow Part 2 (Justice & Metro remix), Yagura - Halo, Thing
       -  Renew, Black Sun Empire & Nymfo - Kempi (Homemade Weapons Remix), J Robinson
       & Cern - Tidal, Bayou - Warlock, Out Of Fuel - Sneaky, Mental Duo - Psyfunk,
@@ -1969,7 +1969,7 @@
     Bayou - Wrong Culture, Amit  - Live In India, Escher - Late Snare, Below - Explorer
       Zero, Marginal - Cockroach Races, Hathor - Living Long, Hysee - Enhance]
 - episode: '014'
-  hearthis_id: 178803
+  hearthis: 178803
   tracklist: [Asc  - Defiant To The End, Seba - Whats Your Fantasy, Thing - Outer
       Lands, Survival & Silent Witness - Fletcher  (Homemade Weapons Remix), Trisector
       & Infader - Chaos Engine, Spinline - Onehouse, N-Noiz - Hasaki, Homemade Weapons
@@ -1978,7 +1978,7 @@
     Xtrah -  Going Deeper, Minor  Rain - Complexity, Nitri - Laser Gun, Justice &
       Metro - The Bear]
 - episode: '013'
-  hearthis_id: 178809
+  hearthis: 178809
   tracklist: [Concealed  Identity  -  Him Haile, Mental Forces - Drama Dub (J.Robinson
       Remix), Loxy & Resound - Declaration, Fade - Dark Planet, Abstract Elements  -
       Acid Coke, Amoss - Dilate (Original Mix), Homemade Weapons - Cabin Fever, Detail
@@ -1987,7 +1987,7 @@
     N-Noiz - Red Spider Nebula, Martsman - Genom, Ijo - Minutower, Stranjah  - Red
       Lantern, 'Konichi, Decimal Bass, Mondeya- Two Stones']
 - episode: '012'
-  hearthis_id: 178807
+  hearthis: 178807
   tracklist: [Dan Habarnam -  Light, Justice & Metro - Dope Boy, Metro - Feelers,
     Dyl - Cybernetics, Data - Surveillance, Dominic Ridgway  - Tin Pan Alley, The
       Untouchables - Herbsman Dub, Amoss - Bumbaclart, The Untouchables - Weapon X,
@@ -1995,7 +1995,7 @@
       - Tongues, Glyph - Unhealthy, L Side & Dans - Everything Around Me, Centrik
       - Goodbye (feat Data & Pia)]
 - episode: '011'
-  hearthis_id: 178818
+  hearthis: 178818
   tracklist: [Thing - Sliding Beauty, Es Tereo/Felix K - Spartan, Marginal - Springhead,
     Thing  - Breathing City, Flatliners - Kangaroo Dub, Morphy  - Warren Dub, Indidjinous
       feat.Ibunshi -  Melt, Original Ninja - Instinct, Gremlinz & Displaced Paranormals
@@ -2004,7 +2004,7 @@
       Remix), Gappa G - Playback, nScape - Tribal Dance, Om Unit/Sam Binga - Electric
       Riddim, Dissident & Marginal - Supreme Adobe]
 - episode: '010'
-  hearthis_id: 178826
+  hearthis: 178826
   tracklist: [Glen E. Ston - Black On Ice, Getz  - Cold Wind, Anodyne Industries -  Amenomibashira,
     ASC - The Alchemist, Tyrone - Behemoth, NotiOn - Maraud, Commix - EXP, Dam Nation
       - Effigy, Indidjinous - From Tha Otha Side, ASC - Snow Wolf, Arclight - Outlaw,
@@ -2012,7 +2012,7 @@
       Books, Blackjob  - Rise Again ft. Suz (Sam Binga remix), Metro & Muted - Hope,
     Consequence Feat. Dbridge - Life Is Timing]
 - episode: 009
-  hearthis_id: 178825
+  hearthis: 178825
   tracklist: [Icons - Time Undefined (Jason oS Remix), HijaQ - Last Living Souls,
     Despot & Abstract Elements - The Never Engine, Muted  - Black & White, Mtwn &
       Act One - Motoba, Marginal - Assimilate, Muted  - Mixed Signals, Justice & Metro
@@ -2021,7 +2021,7 @@
       Astro, Blocks & Escher -  Heartshaped (ASC remix), Sam KDC  -  Walk The Path
       (feat. Mr.Smith), Cruel Culture - Hyperion]
 - episode: 008
-  hearthis_id: 178831
+  hearthis: 178831
   tracklist: [DB1 -  Vanguard, Cj Weeaver  - Roof Of The World, Es Tereo /Felix K  -
       Faces, Infest - Backyard Mill, Adeh - Luminal, nScape - Dele, Nc 17/Grimm &
       Fade - Voodoo Zombie Magic, Axon - Fractal (feat Joel Grainger), Disturbia -
@@ -2029,7 +2029,7 @@
     Cryogenics - Stone Garden, Larrge - Fracture, Need For Mirrors - Screenplay, Oliver
       York - Magellan, Fracture - Gangbusters]
 - episode: '007'
-  hearthis_id: 178836
+  hearthis: 178836
   tracklist: [Skeptical - At Most Fear (Digital Exclusive), Data - Termite, Dyl -
       Slice Of Life, Gunston  - Medikahn (Es.tereo Remix), Chris Octane -Gaia's Dub,
     Curious - Burner, The Untouchables - Dem Pirates VIP, Skeptical - Dream Police,
@@ -2038,7 +2038,7 @@
       Beautiful Damage, Eschaton - Wave Function (Indidijinous Remix), ', Curious
       - Fear No Man']
 - episode: '006'
-  hearthis_id: 178835
+  hearthis: 178835
   tracklist: [Oak - Otaku (ASC Remix), 'D.Ridgway & Marginal - Maintain [DUB]', Synth
       Sense - Next Level, "ASC- Starkwood (Original Mix)", "Stray - Can of Cancun",
     Parallel - The Light, War - Rafale, Gremlinz  - Fallen, '.Total Science, 8 Bits
@@ -2049,7 +2049,7 @@
       (DUB), CJ Weaver - The Thorazine Shuffle, Thing - Alised, Morphy & Marginal
       - Old Thomas Dub, Thing - Swing Dub]
 - episode: '005'
-  hearthis_id: 178839
+  hearthis: 178839
   tracklist: [DJG - Hydrate, Dominic Ridgeway & Vantage -  Redemption, ASC  - Rivet
       City, Fushara  - Vicious Edge, House Of Black Lanterns - Truth & Loss (Fracture's
       Astrophonica Remix), Sotus  - Old Shatterhand, Thing  - Versatile Dub, Sam KDC
@@ -2058,7 +2058,7 @@
       - Magnesium (Original Mix), Genotype - The Director (Original Mix), Morphy -
       Supply Reel (9 Tails Fox Remix), Fade & Nuage  - Hypnotic]
 - episode: '004'
-  hearthis_id: 178841
+  hearthis: 178841
   tracklist: [Calculon - The Mission, Calibre - Thirst Dub, Fade - 9 Princes Of Amber,
     Mr Foul - Visage of War, Theory - Jah Version, Amit - Erazer, Shima & J.Robinson
       - Babylon Informer, Quartz - Seppuku, Quantum Soul & Linden - Zhu, Argento -
@@ -2066,7 +2066,7 @@
       Forces - Corruption Dub VIP, dj Ink - Hidden Dreams, Brain Crisis - City X,
     Johny Kon - Lightbringer  To The Lost, Mode - The Abyss (Sam KDC's Acid Dub Re-Think)]
 - episode: '003'
-  hearthis_id: 178845
+  hearthis: 178845
   tracklist: [Triad - Utopia, ASC - Mirror Image, "Parallel and CoincideUproot",
     Thing - Transfer Dub (Free), Ritual - AS.Beats (Free), Bayou - Fogna (Free), Mindmapper
       & Fre4knc - Fenryr, Survey - Grid Sheet, Sam KDC - Chains, Thing - Atomica (Free),
@@ -2074,7 +2074,7 @@
       - Stepdub, ASC - Rivet City, Marginal vs. Andy Pain & Z connection - Wire Roots,
     DBR UK - Dub Wayz, A Tech - Tribe Of Sand]
 - episode: '002'
-  hearthis_id: 178855
+  hearthis: 178855
   tracklist: [PILA  - Ends Of The Earth, Overlook - Lusca, Acid Lab  - Hybrid, Cern
       - Micromega, Antidote - Longers (Pessimist Rmx), Thing - Run Them Out (Defo
       Remix), nScape - Sinner, Escher - Slice, Overlook - Three Shards, Sam KDC -
@@ -2084,7 +2084,7 @@
     Brain Crisis - Reverse Session, Delta & Format - Head Click, Hidden Element- Plastic
       Thoughts]
 - episode: '001'
-  hearthis_id: 178857
+  hearthis: 178857
   tracklist: [Sam KDC - Alleviate, Indigo  - Time, Method One - Stalagmite, Other
       Spectrum - Hyperbaria, Thing - Bamboo Dub, Morphy - Black Velvet, Archival -
       Elemental, San.dra - Retreat, Mindmapper & Fre4knc -  Fenryr, Code  - Katana,

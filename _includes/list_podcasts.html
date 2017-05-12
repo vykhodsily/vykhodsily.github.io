@@ -4,15 +4,17 @@
         <h2><a href="#">Guest: {{p.guest}}</a></h2>
     {% elsif p.episode %}
         <h2><a href="#">Episode: {{p.episode}}</a></h2>
+    {% elsif p.live %}
+        <h2><a href="#">Live: {{p.live}}</a></h2>
     {% elsif p.special %}
         <h2><a href="#">Special: {{p.special}}</a></h2>
     {% elsif p.custom %}
         <h2><a href="#">{{p.custom}}</a></h2>
     {%endif %}
     <div class="episode-content">
-        {% if p.hearthis_id %}
+        {% if p.hearthis %}
             <section class="player" data-player-type="hearthis"
-                data-hearthisid="{{p.hearthis_id | replace: 'https://hearthis.at/', '' | replace: '/', ''}}">
+                data-hearthisid="{{p.hearthis | replace: 'https://hearthis.at/', '' | replace: '/', ''}}">
         {% elsif p.mixcloud %}
             <section class="player" data-player-type="mixcloud" data-mixcloud="{{p.mixcloud | escape}}">
         {% endif %}
