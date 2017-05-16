@@ -1,36 +1,25 @@
+
 {% for p in site.data.podcasts %}
-<section class="episode">
+<a  href="#" class="episode"
+    {% if p.hearthis %}
+        data-player-type="hearthis"
+        data-player-data="{{p.hearthis | replace: 'https://hearthis.at/', '' | replace: '/', ''}}"
+    {% elsif p.mixcloud %}
+        data-player-type="mixcloud"
+        data-player-data="{{p.mixcloud | escape}}"
+    {% endif %}
+
     {% if p.guest %}
-        <h2><a href="#">Guest: {{p.guest}}</a></h2>
+        data-episode-type="guest"
+        data-episode-data={{p.guest}}>{{p.guest | replace: ' ', '&nbsp;'}}</a>
     {% elsif p.episode %}
-        <h2><a href="#">Episode: {{p.episode}}</a></h2>
+        data-episode-type="episode"
+        data-episode-data={{p.episode}}>E{{p.episode | replace: ' ', '&nbsp;'}}</a>
     {% elsif p.live %}
-        <h2><a href="#">Live: {{p.live}}</a></h2>
+        data-episode-type="live"
+        data-episode-data={{p.live}}>{{p.live | replace: ' ', '&nbsp;'}}&nbsp;Live</a>
     {% elsif p.special %}
-        <h2><a href="#">Special: {{p.special}}</a></h2>
-    {% elsif p.custom %}
-        <h2><a href="#">{{p.custom}}</a></h2>
-    {%endif %}
-    <div class="episode-content">
-        {% if p.hearthis %}
-            <section class="player" data-player-type="hearthis"
-                data-hearthisid="{{p.hearthis | replace: 'https://hearthis.at/', '' | replace: '/', ''}}">
-        {% elsif p.mixcloud %}
-            <section class="player" data-player-type="mixcloud" data-mixcloud="{{p.mixcloud | escape}}">
-        {% endif %}
-        </section>
-        <section class="tracklist">
-            {% if p.tracklist %}
-                <h3>Tracklist:</h3>
-                <ol>
-                    {% for t in p.tracklist %}
-                        <li>{{t}}</li>
-                    {% endfor %}
-                </ol>
-            {% else %}
-                <p>Tracklist is not available.</p>
-            {% endif %}
-        </section>
-    </div>
-</section>
+        data-episode-type="special"
+        data-episode-data={{p.special}}>{{p.special | replace: ' ', '&nbsp;'}}</a>
+    {% endif %}
 {% endfor %}
