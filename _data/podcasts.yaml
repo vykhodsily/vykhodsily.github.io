@@ -1,8 +1,10 @@
+- {date: '2017-05-16', guest: Allaxion, hearthis: 1318851}
 - {date: '2017-05-13', hearthis: 'https://hearthis.at/1318821/', live: Draeil}
 - {date: '2017-05-11', episode: 088, hearthis: 'https://hearthis.at/1318148/'}
 - {date: '2017-05-04', guest: Brijawi, hearthis: 'https://hearthis.at/1312732/'}
 - {date: '2017-05-01', hearthis: 'https://hearthis.at/1310301/', live: 'Fung Bui Lao
     [MNASS]'}
+- {date: '2017-04-27', guest: Fuj, hearthis: 'https://hearthis.at/1305690/'}
 - {date: '2017-04-20', episode: 087, hearthis: 'https://hearthis.at/1296737/'}
 - {date: '2017-04-13', guest: Torn, hearthis: 'https://hearthis.at/1287516/'}
 - {date: '2017-04-06', guest: Metro, hearthis: 'https://hearthis.at/1279942/'}
@@ -133,6 +135,7 @@
 - {date: '2014-08-22', episode: 038, hearthis: 178518}
 - {date: '2014-08-15', guest: dj Q^ART, hearthis: 'https://hearthis.at/551268/'}
 - {date: '2014-08-07', episode: '037', hearthis: 178525}
+- {date: '2014-08-03', episode: 'LA Johnson & Baddesley', hearthis: 551290}
 - {date: '2014-07-31', guest: dj DX, hearthis: 'https://hearthis.at/551265/'}
 - {date: '2014-07-24', episode: '036', hearthis: 178526}
 - {date: '2014-07-17', guest: dj Ph, hearthis: 'https://hearthis.at/551264/'}
