@@ -135,7 +135,7 @@
 - {date: '2014-08-22', episode: 038, hearthis: 178518}
 - {date: '2014-08-15', guest: dj Q^ART, hearthis:  551268}
 - {date: '2014-08-07', episode: '037', hearthis: 178525}
-- {date: '2014-08-03', episode: 'LA Johnson & Baddesley', hearthis: 551290}
+- {date: '2014-08-03', guest: 'LA Johnson & Baddesley', hearthis: 551290}
 - {date: '2014-07-31', guest: dj DX, hearthis:  551265}
 - {date: '2014-07-24', episode: '036', hearthis: 178526}
 - {date: '2014-07-17', guest: dj Ph, hearthis:  551264}
@@ -162,6 +162,7 @@
 - {date: '2014-02-20', guest: Retrospection, hearthis:  637749}
 - {date: '2014-02-13', guest: DYL, hearthis:  551256}
 - {date: '2014-02-06', episode: '027', hearthis: 178599}
+- {date: '2013-12-26', guest: Istadev, hearthis: 1327144}
 - {date: '2013-12-21', episode: '026', hearthis: 178612}
 - {date: '2013-12-14', guest: Marginal, hearthis:  551244}
 - {date: '2013-12-06', episode: '025', hearthis: 178623}
