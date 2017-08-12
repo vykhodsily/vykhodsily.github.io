@@ -162,8 +162,8 @@ $black-trans: rgba(0, 0, 0, 0.5);
 
 .sidebar {}
 
-@media (max-width: 1024px) {
-  #facebook { display: none; }
+@media (max-width: 768px) {
+  #left-bar > * { display: none; }
 }
 
 #contact {
