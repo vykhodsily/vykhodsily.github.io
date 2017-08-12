@@ -14,7 +14,7 @@
         data-episode-data={{p.guest}}>{{p.guest | replace: ' ', '&nbsp;'}}</a>
     {% elsif p.episode %}
         data-episode-type="episode"
-        data-episode-data={{p.episode}}>E{{p.episode | replace: ' ', '&nbsp;'}}</a>
+        data-episode-data={{p.episode}}>{{p.episode | replace: ' ', '&nbsp;'}}</a>
     {% elsif p.live %}
         data-episode-type="live"
         data-episode-data={{p.live}}>{{p.live | replace: ' ', '&nbsp;'}}&nbsp;Live</a>
