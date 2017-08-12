@@ -28,6 +28,12 @@ $(function() {
         showEpisodeType = $(this).attr('data-show')
         $('#content > a.episode').each(function() {
             episodeType = $(this).attr('data-episode-type')
+            if (showEpisodeType === 'everything' && episodeType === 'episode') {
+                $(this).addClass('red');
+            }
+            if (showEpisodeType === 'episode' && episodeType === 'episode') {
+                $(this).removeClass('red');
+            }
             if (showEpisodeType === 'everything' || episodeType === showEpisodeType) {
                 $(this).show()
             } else {
