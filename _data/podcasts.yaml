@@ -1,4 +1,6 @@
-# - {date:, live:, hearthis:}
+# -- {date:, live:, hearthis:}
+- {date: '2017-08-24', episode: '091', hearthis: 1517182}
+- {date: '2017-08-22', guest: Nitrate, hearthis: 1506190}
 - {date: '2017-08-17', guest: Alegria, hearthis: 1499641}
 - {date: '2017-08-15', guets: MTRL, hearthis: 1503337}
 - {date: '2017-08-10', guest: Dimensional Dryft, hearthis: 1484989}
