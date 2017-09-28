@@ -1,5 +1,5 @@
 # - {date:, live:, hearthis:}
-- {date '2017-09-21':, guest: Lcp, hearthis: 1560122}
+- {date: '2017-09-21', guest: Lcp, hearthis: 1560122}
 - {date: '2017-09-21', guest: Heatwave, hearthis: 1542367}
 - {date: '2017-09-14', guest: Toben, hearthis: 1533008}
 - {date: '2017-09-14', guest: Audite, hearthis: 1542383}
