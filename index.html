@@ -1,81 +1,16 @@
 ---
+layout: content
+title: Podcast
 ---
-<!doctype html>
-<html class="no-js" lang="">
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Vykhod Sily</title>
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/grids-responsive-min.css">
-    <link rel="stylesheet" href="/css/main.css"/>
-    <link rel="icon" href="/img/favicon.ico" type="image/x-icon"/>
-    <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon"/>
-</head>
-<body>
-<header id="header" class="pure-g">
-    {% include header.html %}
-</header>
-<section class="pure-g">
-    <section id="left-bar" class="bg sidebar pure-u-1
-                                  pure-u-md-4-24
-                                  pure-u-lg-6-24">
-        {% include bar_left.html %}
-    </section>
-    <section class="bg pure-u-1
-                    pure-u-md-16-24
-                    pure-u-lg-12-24">
-        <section id="player"></section>
-        <nav id="episode-filter">
-            <a href="#" class="selected" data-show="everything">Everything</a>
-            <a href="#" data-show="episode">Episodes</a>
-            <a href="#" data-show="guest">Guests</a>
-            <a href="#" data-show="live">Lives</a>
-            <a href="#" data-show="special">Specials</a>
-        </nav>
-        
-        <!-- CONTENT -->
-        <section id="content">
-            {% include list_podcasts.html %}
-        </section>
-        <!-- END CONTENT -->
+<section id="player"></section>
+<nav id="episode-filter">
+    <a href="#" class="selected" data-show="everything">Everything</a>
+    <a href="#" data-show="episode">Episodes</a>
+    <a href="#" data-show="guest">Guests</a>
+    <a href="#" data-show="live">Lives</a>
+    <a href="#" data-show="special">Specials</a>
+</nav>
 
-    </section>
-    <section class="sidebar pure-u-1
-                    pure-u-md-4-24
-                    pure-u-lg-5-24">
-        {% include bar_right.html %}
-    </section>
+<section id="episodes">
+    {% include list_podcasts.html %}
 </section>
-
-<footer class="pure-g">
-    <div class="pure-u-1
-              pure-u-md-4-24
-              pure-u-lg-6-24">
-    </div>
-    <section id="footer" class="bg pure-u-1
-                    pure-u-md-16-24
-                    pure-u-lg-12-24">
-        2013&minus;2017 &copy; Vykhod Sily. All right reserved.</section>
-    <div class="pure-u-1
-                pure-u-md-4-24
-                pure-u-lg-5-24">
-    </div>
-</footer>
-
-<script type="text/javascript" src="/js/jquery.min.js"></script>
-<script type="text/javascript" src="/js/main.js"></script>
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-56545218-2', 'auto');
-  ga('send', 'pageview');
-
-</script>
-</body>
-</html>

@@ -1,9 +1,16 @@
+{% if page.title == "Podcast" %}
+  {% assign sel_podcast = "selected" %}
+{% elsif page.title == "Releases" %}
+  {% assign sel_releases = "selected" %}
+{% elsif page.title == "About" %}
+  {% assign sel_about = "selected" %}
+{% endif %}
 <div class="pure-u-1
-            pure-u-md-4-24
+            pure-u-md-2-24
             pure-u-lg-6-24">
 </div>
 <section class="bg pure-u-1
-                pure-u-md-16-24
+                pure-u-md-20-24
                 pure-u-lg-12-24">
 
     <h1>Vykhod Sily Recordings</h1>
@@ -31,13 +38,13 @@
                  hope you enjoy the music we and our guests collected here.</p>
 
     <nav>
-        <a href="/" class="selected">Podcast</a>
-        <a href="/releases">Releases</a>
-        <a href="/about">About</a>
+        <a href="/" class="{{ sel_podcast }}">Podcast</a>
+        <a href="/releases" class="{{ sel_releases }}">Releases</a>
+        <a href="/about" class="{{ sel_about }}">About</a>
     </nav>
 </section>
 <div class="pure-u-1
-            pure-u-md-4-24
+            pure-u-md-2-24
             pure-u-lg-5-24">
 </div>
 

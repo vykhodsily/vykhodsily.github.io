@@ -1,0 +1,27 @@
+---
+layout: content
+title: Releases
+---
+
+{% for r in site.data.releases %}
+
+<section class="pure-g release">
+  <section class="release-cover pure-u-7-24 pure-u-sm-7-24 pure-u-md-7-24">
+    <img src="http://via.placeholder.com/500x500">
+  </section>
+  <section class="release-info pure-u-16-24 pure-u-sm-16-24 pure-u-md-16-24">
+    <h2>[{{ r.cat }}] {{ r.name }}</h2>
+    <p>Release date: {{ r.date }}<p>
+    <ol>
+      {% for t in r.tracks %}
+        <li>{{ t }}</li>
+      {% endfor %}
+    </ol>
+    <section class="links">
+      <a href="{{ r.mp3 }}" title="Download {{ r.name }}" class="dl-mp3">MP3 320</a>
+      <span class="dl-flac">Lossless (only for patrons)</span>
+    </section>
+  </section>
+</section>
+
+{% endfor %}
