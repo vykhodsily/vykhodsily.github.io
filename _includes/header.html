@@ -2,6 +2,8 @@
   {% assign sel_podcast = "selected" %}
 {% elsif page.title == "Releases" %}
   {% assign sel_releases = "selected" %}
+{% elsif page.title == "Patrons" %}
+  {% assign sel_patrons = "selected" %}
 {% elsif page.title == "About" %}
   {% assign sel_about = "selected" %}
 {% endif %}
@@ -40,6 +42,7 @@
     <nav>
         <a href="/" class="{{ sel_podcast }}">Podcast</a>
         <a href="/releases" class="{{ sel_releases }}">Releases</a>
+        <a href="/patrons" class="{{ sel_patrons }}">Patrons</a>
         <a href="/about" class="{{ sel_about }}">About</a>
     </nav>
 </section>

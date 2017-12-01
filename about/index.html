@@ -3,16 +3,4 @@ layout: content
 title: About
 ---
 
-<p>Some info about VS.</p>
-
-<h3>Patrons</h3>
- 
-<p>
-{% for p in site.data.patrons %}
-{% if forloop.last %}
-{{ p }}
-{% else %}
-{{ p }},
-{% endif %}
-{% endfor %}
-</p>
+Some info about VS.
