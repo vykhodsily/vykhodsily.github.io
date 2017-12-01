@@ -2,13 +2,17 @@
 layout: content
 title: Patrons
 ---
-
-Some text about patrons.
- 
-{% for p in site.data.patrons %}
-{% if forloop.last %}
-{{ p }}
-{% else %}
-{{ p }},
-{% endif %}
-{% endfor %}
+<section>
+<p>
+  Some text about patrons.
+</p>
+<p>
+  {% for p in site.data.patrons %}
+  {% if forloop.last %}
+  {{ p }}
+  {% else %}
+  {{ p }},
+  {% endif %}
+  {% endfor %}
+</p>
+</section>

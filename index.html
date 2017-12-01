@@ -2,15 +2,17 @@
 layout: content
 title: Podcast
 ---
-<section id="player"></section>
-<nav id="episode-filter">
-    <a href="#" class="selected" data-show="everything">Everything</a>
-    <a href="#" data-show="episode">Episodes</a>
-    <a href="#" data-show="guest">Guests</a>
-    <a href="#" data-show="live">Live PA’s</a>
-    <a href="#" data-show="special">Specials</a>
-</nav>
-
-<section id="episodes">
-    {% include list_podcasts.html %}
-</section>
+<div>
+    <section id="player"></section>
+    <nav id="episode-filter">
+        <a href="#" class="selected" data-show="everything">Everything</a>
+        <a href="#" data-show="episode">Episodes</a>
+        <a href="#" data-show="guest">Guests</a>
+        <a href="#" data-show="live">Live PA’s</a>
+        <a href="#" data-show="special">Specials</a>
+    </nav>
+    
+    <section id="episodes">
+        {% include list_podcasts.html %}
+    </section>
+</div>

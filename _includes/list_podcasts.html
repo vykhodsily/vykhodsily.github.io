@@ -1,25 +1,36 @@
-
 {% for p in site.data.podcasts %}
-<a  href="#" class="episode"
-    {% if p.hearthis %}
-        data-player-type="hearthis"
-        data-player-data="{{p.hearthis | replace: 'https://hearthis.at/', '' | replace: '/', ''}}"
-    {% elsif p.mixcloud %}
-        data-player-type="mixcloud"
-        data-player-data="{{p.mixcloud | escape}}"
-    {% endif %}
 
+    {% assign e_type = "unknown" %}
+    {% assign e_data = "unknown" %}
     {% if p.guest %}
-        data-episode-type="guest"
-        data-episode-data={{p.guest}}>{{p.guest | replace: ' ', '&nbsp;'}}</a>
+        {% assign e_type = "guest" %}
+        {% assign e_data = p.guest %}
+        {% assign e_text = p.guest | replace: ' ', '&nbsp;' %}
     {% elsif p.episode %}
-        data-episode-type="episode"
-        data-episode-data={{p.episode}}>{{p.episode | replace: ' ', '&nbsp;'}}</a>
+        {% assign e_type = "episode" %}
+        {% assign e_data = p.episode %}
+        {% assign e_text = p.episode | replace: ' ', '&nbsp;' %}
     {% elsif p.live %}
-        data-episode-type="live"
-        data-episode-data={{p.live}}>{{p.live | replace: ' ', '&nbsp;'}}&nbsp;Live</a>
+        {% assign e_type = "live" %}
+        {% assign e_data = p.live %}
+        {% assign e_text = p.live | replace: ' ', '&nbsp;' %}
     {% elsif p.special %}
-        data-episode-type="special"
-        data-episode-data={{p.special}}>{{p.special | replace: ' ', '&nbsp;'}}</a>
+        {% assign e_type = "special" %}
+        {% assign e_data = p.special %}
+        {% assign e_text = p.special | replace: ' ', '&nbsp;' %}
     {% endif %}
+    <a  href="#" class="episode"
+        {% if p.hearthis %}
+            data-player-type="hearthis"
+            data-player-data="{{p.hearthis | replace: 'https://hearthis.at/', '' | replace: '/', ''}}"
+        {% elsif p.mixcloud %}
+            data-player-type="mixcloud"
+            data-player-data="{{p.mixcloud | escape}}"
+        {% endif %}
+            data-episode-type="{{ e_type }}"
+            data-episode-data="{{ e_data }}">{{ e_text }}</a>
+    {% unless forloop.last %}
+        <span class="space"> </span>
+    {% endunless %}
+
 {% endfor %}

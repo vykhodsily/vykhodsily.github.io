@@ -101,6 +101,8 @@ a:hover { color: #aaa }
   padding: 1em 0;
 }
 
+#content { padding-bottom: 1em }
+
 #player { background-color: black; }
 
 #episode-filter {
@@ -121,10 +123,9 @@ a:hover { color: #aaa }
 }
 
 #episodes {
-  margin: 1.25em 1em;
+  padding: 1.25em 1em;
   & > a.episode {
     font-size: 1.3em;
-    margin-right: 0.75em;
     background-color: rgba(0, 0, 0, 0.5);
     padding: 0 0.25em;
     line-height: 1.5em;
@@ -139,6 +140,7 @@ a:hover { color: #aaa }
       color: white;
     }
   }
+  & > span.space { padding: 0.5em}
 }
 
 #content section.release {
