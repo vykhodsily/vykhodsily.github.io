@@ -1,0 +1,227 @@
+# - {date:, live:, hearthis:}
+- {date: '2017-10-03', guest: Phonaut, hearthis: 1569350}
+- {date: '2017-09-28', guest: 'Genotype/Jus Dubz', hearthis: 1533013}
+- {date: '2017-09-21', guest: Lcp, hearthis: 1560122}
+- {date: '2017-09-21', guest: Heatwave, hearthis: 1542367}
+- {date: '2017-09-14', guest: Toben, hearthis: 1533008}
+- {date: '2017-09-14', guest: Audite, hearthis: 1542383}
+- {date: '2017-09-07', guest: Transient, hearthis: 1533006}
+- {date: '2017-08-31', guest: Sicknote, hearthis: 1523134}
+- {date: '2017-08-24', episode: '091', hearthis: 1517182}
+- {date: '2017-08-22', guest: Nitrate, hearthis: 1506190}
+- {date: '2017-08-17', guest: Alegria, hearthis: 1499641}
+- {date: '2017-08-15', guets: MTRL, hearthis: 1503337}
+- {date: '2017-08-10', guest: Dimensional Dryft, hearthis: 1484989}
+- {date: '2017-08-03', guest: Line_out, hearthis: 1473675}
+- {date: '2017-07-31', live: Moodswing, hearthis: 1469921}
+- {date: '2017-07-27', episode: '090', hearthis: 1460152}
+- {date: '2017-07-20', guest: Rainforest, hearthis: 1387983}
+- {date: '2017-07-13', guest: Hex, hearthis: 1387966}
+- {date: '2017-07-06', guest: RBYN, hearthis: 1385309}
+- {date: '2017-07-03', live: Dreamlogicc, hearthis: 1381217}
+- {date: '2017-06-29', episode: '089', hearthis: 1373531}
+- {date: '2017-06-27', live: Cocktail Party Effect, hearthis: 1373544}
+- {date: '2017-06-21', live: Dubsane, hearthis: 1363953}
+- {date: '2017-06-15', guest: Kit Curse, hearthis: 1357338}
+- {date: '2017-06-08', guest: GodIsNoLongerADj, hearthis: 1351039}
+- {date: '2017-06-01', guest: Izbu (Mendelayev), hearthis: 1342556}
+- {date: '2017-05-29', guest: Projekt 22, hearthis: 1340492}
+- {date: '2017-05-26', guest: Dreadmaul, hearthis: 1334715}
+- {date: '2017-05-23', live: Dycide x MTRL, hearthis: 1319557}
+- {date: '2017-05-19', guest: Antagonist, hearthis: 1319534}
+- {date: '2017-05-19', guest: ILL_K, hearthis: 1319538}
+- {date: '2017-05-16', guest: Allaxion, hearthis: 1318851}
+- {date: '2017-05-13', hearthis:  1318821, live: Draeil}
+- {date: '2017-05-11', episode: 088, hearthis:  1318148}
+- {date: '2017-05-04', guest: Brijawi, hearthis:  1312732}
+- {date: '2017-05-01', hearthis:  1310301, live: 'Fung Bui Lao
+    [MNASS]'}
+- {date: '2017-04-27', guest: Fuj, hearthis:  1305690}
+- {date: '2017-04-20', episode: 087, hearthis:  1296737}
+- {date: '2017-04-13', guest: Torn, hearthis:  1287516}
+- {date: '2017-04-06', guest: Metro, hearthis:  1279942}
+- {date: '2017-03-30', guest: Emplate, hearthis:  1273288}
+- {date: '2017-03-30', hearthis:  1270824, special: Organic
+    Mix - Rustee}
+- {date: '2017-03-23', guest: Neo MDS, hearthis:  1261271}
+- {date: '2017-03-16', guest: TKVV, hearthis:  1252272}
+- {date: '2017-03-16', episode: 086, hearthis:  1252279}
+- {date: '2017-03-09', live: UxoozZ, mixcloud: 'https://www.mixcloud.com/SpecialRequest/vykhod-sily-podcast-uxoozz-live-pa-somatik-techno/'}
+- {date: '2017-03-02', guest: Chimera, mixcloud: 'https://www.mixcloud.com/SpecialRequest/vykhod-sily-podcast-chimera-guest-mix/'}
+- {date: '2017-02-23', episode: 085, mixcloud: 'https://www.mixcloud.com/SpecialRequest/vykhod-sily-podcast-085/'}
+- {date: '2017-02-17', guest: Owl, mixcloud: 'https://www.mixcloud.com/SpecialRequest/vykhod-sily-podcast-owl-guest-mix/'}
+- {date: '2017-02-09', guest: Blanca, mixcloud: 'https://www.mixcloud.com/SpecialRequest/vykhod-sily-podcast-blanca-guest-mix/'}
+- {date: '2017-01-26', episode: 084, mixcloud: 'https://www.mixcloud.com/SpecialRequest/vykhod-sily-podcast-084/'}
+- {date: '2017-01-20', guest: Dissident, mixcloud: 'https://www.mixcloud.com/SpecialRequest/vykhod-sily-podcast-dissident-guest-mix/'}
+- {date: '2017-01-19', guest: Thematic, mixcloud: 'https://www.mixcloud.com/SpecialRequest/vykhod-sily-podcast-thematic-guest-mix/'}
+- {date: '2016-12-29', guest: Bereneces, mixcloud: 'https://www.mixcloud.com/SpecialRequest/vykhod-sily-podcast-bereneces-guest-mix/'}
+- {date: '2016-12-22', guest: '[kju:bi]', mixcloud: 'https://www.mixcloud.com/SpecialRequest/vykhod-sily-podcast-kjubi-guest-mix/'}
+- {date: '2016-12-15', episode: 083, mixcloud: 'https://www.mixcloud.com/SpecialRequest/vykhod-sily-podcast-083/'}
+- {date: '2016-12-08', guest: Pen, mixcloud: 'https://www.mixcloud.com/SpecialRequest/vykhod-sily-podcast-pen-guest-mix/'}
+- {date: '2016-12-01', guest: Criss NSA, hearthis:  1126326}
+- {date: '2016-11-17', guest: Dominic Ridgway, hearthis:  1102301}
+- {date: '2016-11-13', hearthis:  1105437, special: Rustee -
+    Source.Echo}
+- {date: '2016-11-10', episode: 082, hearthis:  1102309}
+- {date: '2016-11-03', guest: mR_BLACk, hearthis:  1095713}
+- {date: '2016-10-28', hearthis:  1086382, special: Rustee -
+    Tesseract}
+- {date: '2016-10-20', guest: Rob Vanden, hearthis:  1074901}
+- {date: '2016-10-13', guest: Mauoq, hearthis:  1065035}
+- {date: '2016-10-06', episode: 081, hearthis:  1056835}
+- {date: '2016-09-29', guest: Goreteks, hearthis:  1048238}
+- {date: '2016-09-22', guest: Grym, hearthis:  1038456}
+- {date: '2016-09-16', episode: 080, hearthis:  1031218}
+- {date: '2016-09-08', guest: Enorme, hearthis:  1023168}
+- {date: '2016-09-02', episode: 079, hearthis:  1015309}
+- {date: '2016-08-25', guest: Brusten, hearthis:  1007284}
+- {date: '2016-08-18', guest: Nic TVG, hearthis:  995606}
+- {date: '2016-08-11', episode: 078, hearthis:  972752}
+- {date: '2016-08-04', guest: Diverge, hearthis:  978405}
+- {date: '2016-07-30', episode: '077', hearthis:  955814}
+- {date: '2016-07-14', episode: '076', hearthis: 955814}
+- {date: '2016-07-08', guest: Mark Kloud, hearthis: 950179}
+- {date: '2016-06-30', episode: '075', hearthis: 941807}
+- {date: '2016-06-23', guest: Elusive Beats, hearthis: 935200}
+- {date: '2016-06-18', episode: '074', hearthis: 929113}
+- {date: '2016-06-04', guest: Epilleptech, hearthis: 919981}
+- {date: '2016-05-19', guest: dj Y2, hearthis: 892685}
+- {date: '2016-05-05', guest: Elwood, hearthis: 871647}
+- {date: '2016-04-28', episode: '073', hearthis: 861694}
+- {date: '2016-04-21', guest: Entire, hearthis: 850862}
+- {date: '2016-04-15', guest: Lyceum, hearthis: 841060}
+- {date: '2016-04-07', episode: '072', hearthis: 829746}
+- {date: '2016-03-31', guest: Akinsa, hearthis: 821709}
+- {date: '2016-03-24', episode: '071', hearthis: 803377}
+- {date: '2016-03-17', guest: Buddhafinger, hearthis: 782720}
+- {date: '2016-03-04', guest: Djinn, hearthis: 756024}
+- {date: '2016-02-26', guest: Rougestate, hearthis: 745980}
+- {date: '2016-02-18', guest: Owneath, hearthis: 730075}
+- {date: '2016-02-12', guest: Niiki Bushido, mixcloud: 'https://www.mixcloud.com/SpecialRequest/vykhod-sily-podcast-niiki-bushido-guest-mix/'}
+- {date: '2016-01-28', guest: K-Rob, hearthis: '681531'}
+- {date: '2016-01-21', guest: LoKi, hearthis: '668492'}
+- {date: '2016-01-14', episode: '070', hearthis: '649892'}
+- {date: '2015-12-30', episode: 069, mixcloud: 'https://www.mixcloud.com/SpecialRequest/vykhod-sily-podcast-069/'}
+- {date: '2015-12-24', episode: 068, hearthis: 615032}
+- {date: '2015-12-19', guest: Alg0rh1tm, hearthis: 607282}
+- {date: '2015-12-10', guest: Out Of Fuel, hearthis: 576640}
+- {date: '2015-12-03', episode: '067', hearthis: 573321}
+- {date: '2015-11-26', guest: Phuture-T, hearthis: 571853}
+- {date: '2015-11-19', guest: Yankowsky, hearthis: 554448}
+- {date: '2015-11-17', guest: Skutta Records Exclusive, hearthis:  551266}
+- {date: '2015-11-12', guest: Eschaton, hearthis: 535706}
+- {date: '2015-11-05', episode: '066', hearthis: 490531}
+- {date: '2015-10-29', guest: Dop'e, hearthis: 490553}
+- {date: '2015-10-22', episode: '065', hearthis: 460564}
+- {date: '2015-10-15', guest: Istota, hearthis: 460517}
+- {date: '2015-10-08', episode: '064', hearthis: 446755}
+- {date: '2015-10-01', guest: Relapse, hearthis: 441220}
+- {date: '2015-09-24', episode: '063', hearthis: 434845}
+- {date: '2015-09-03', episode: '062', hearthis: 370035}
+- {date: '2015-08-27', episode: '061', hearthis: 345614}
+- {date: '2015-08-20', guest: Astraoum, hearthis:  325212}
+- {date: '2015-08-13', episode: '060', hearthis: 310404}
+- {date: '2015-08-06', guest: Slimy, hearthis: 298986}
+- {date: '2015-07-23', guest: Law & Wheeler, hearthis: 278152}
+- {date: '2015-07-16', episode: 059, hearthis: 260193}
+- {date: '2015-07-02', episode: 058, hearthis: 250063}
+- {date: '2015-06-25', episode: '057', hearthis: 242654}
+- {date: '2015-06-18', guest: Mr. Diamond, hearthis: 237480}
+- {date: '2015-06-11', episode: '056', hearthis: 233089}
+- {date: '2015-06-04', guest: Asymmetric, hearthis: 228694}
+- {date: '2015-05-28', episode: '055', hearthis: 220239}
+- {date: '2015-05-21', guest: Brandon Metaphysic Audio, hearthis: 219078}
+- {date: '2015-05-14', episode: '054', hearthis: 215042}
+- {date: '2015-05-07', guest: dj Rude Launch, hearthis: 212951}
+- {date: '2015-05-01', guest: Greenleaf, hearthis: 208814}
+- {date: '2015-04-23', episode: '053', hearthis: 199939}
+- {date: '2015-04-16', guest: dj Darrel, hearthis:  551290}
+- {date: '2015-04-09', guest: SkyLabCru, hearthis:  551287}
+- {date: '2015-04-02', episode: '052', hearthis: 187225}
+- {date: '2015-03-26', guest: Apostroph, hearthis:  551291}
+- {date: '2015-03-19', episode: '051', hearthis: 179166}
+- {date: '2015-03-12', guest: Tim Reaper, hearthis:  551286}
+- {date: '2015-03-05', episode: '050', hearthis: 178038}
+- {date: '2015-02-26', guest: Zul, hearthis:  551288}
+- {date: '2015-02-19', guest: Spotovsky, hearthis:  551280}
+- {date: '2015-02-12', episode: 049, hearthis: 178043}
+- {date: '2015-02-05', guest: I Wannabe, hearthis:  551279}
+- {date: '2015-01-29', episode: 048, hearthis: 178047}
+- {date: '2015-01-22', guest: Mechncl, hearthis:  551278}
+- {date: '2015-01-15', episode: '047', hearthis: 178053}
+- {date: '2014-12-25', guest: The Untouchables, hearthis:  551275}
+- {date: '2014-12-18', guest: Cryogenics, hearthis:  551274}
+- {date: '2014-12-11', guest: dj Rage, hearthis:  1320163}
+- {date: '2014-12-05', episode: '046', hearthis: 178060}
+- {date: '2014-11-24', guest: Dozak, hearthis:  551273}
+- {date: '2014-11-06', episode: '045', hearthis: 178066}
+- {date: '2014-10-24', episode: '044', hearthis: 178071}
+- {date: '2014-10-16', guest: Red Catz, hearthis:  551272}
+- {date: '2014-10-13', episode: '043', hearthis: 178082}
+- {date: '2014-10-03', episode: '042', hearthis: 178085}
+- {date: '2014-09-27', episode: '041', hearthis: 178087}
+- {date: '2014-09-19', guest: dj 1985, hearthis:  551270}
+- {date: '2014-09-12', episode: '040', hearthis: 178115}
+- {date: '2014-09-04', episode: 039, hearthis: 178517}
+- {date: '2014-08-28', guest: Khords, hearthis:  551269}
+- {date: '2014-08-22', episode: 038, hearthis: 178518}
+- {date: '2014-08-15', guest: dj Q^ART, hearthis:  551268}
+- {date: '2014-08-07', episode: '037', hearthis: 178525}
+- {date: '2014-08-03', guest: 'LA Johnson & Baddesley', hearthis: 551290}
+- {date: '2014-07-31', guest: dj DX, hearthis:  551265}
+- {date: '2014-07-24', episode: '036', hearthis: 178526}
+- {date: '2014-07-17', guest: dj Ph, hearthis:  551264}
+- {date: '2014-07-10', guest: Space Depth, hearthis:  551263}
+- {date: '2014-07-03', episode: '035', hearthis: 178527}
+- {date: '2014-06-26', guest: Silent, hearthis:  551260}
+- {date: '2014-06-19', episode: '034', hearthis: 178530}
+- {date: '2014-06-12', guest: Nwave, hearthis:  551258}
+- {date: '2014-06-06', episode: '033', hearthis: 178533}
+- {date: '2014-05-29', guest: Slaine, hearthis:  1320166}
+- {date: '2014-05-22', guest: Red Army, hearthis:  551255}
+- {date: '2014-05-15', guest: Animado, hearthis:  551251}
+- {date: '2014-05-08', guest: Rocket Delight, hearthis:  549852}
+- {date: '2014-05-01', guest: Asanyeh, hearthis:  549846}
+- {date: '2014-04-26', episode: '032', hearthis: 178535}
+- {date: '2014-04-17', guest: Saburov, hearthis:  551254}
+- {date: '2014-04-10', episode: '031', hearthis: 178536}
+- {date: '2014-04-03', guest: Clima, hearthis:  551250}
+- {date: '2014-03-27', episode: '030', hearthis: 178537}
+- {date: '2014-03-20', guest: Tokkata, hearthis:  1320181}
+- {date: '2014-03-13', episode: 029, hearthis: 178578}
+- {date: '2014-03-06', guest: Dasha Dippy, hearthis:  1320172}
+- {date: '2014-02-28', episode: 028, hearthis: 178589}
+- {date: '2014-02-20', guest: Retrospection, hearthis:  637749}
+- {date: '2014-02-13', guest: DYL, hearthis:  551256}
+- {date: '2014-02-06', episode: '027', hearthis: 178599}
+- {date: '2013-12-26', guest: Istadev, hearthis: 1327144}
+- {date: '2013-12-21', episode: '026', hearthis: 178612}
+- {date: '2013-12-14', guest: Marginal, hearthis:  551244}
+- {date: '2013-12-06', episode: '025', hearthis: 178623}
+- {date: '2013-11-28', episode: '024', hearthis: 178629}
+- {date: '2013-11-21', episode: '023', hearthis: 178651}
+- {date: '2013-11-14', guest: nScape, hearthis:  218165}
+- {date: '2013-10-31', episode: '022', hearthis: 178661}
+- {date: '2013-10-17', guest: SL1, hearthis:  218153}
+- {date: '2013-10-12', episode: '021', hearthis: 178662}
+- {date: '2013-08-29', guest: Defeat Soul, hearthis:  218160}
+- {date: '2013-08-22', episode: '020', hearthis: 178675}
+- {date: '2013-08-15', episode: 019, hearthis: 178748}
+- {date: '2013-08-08', episode: 018, hearthis: 178763}
+- {date: '2013-08-01', episode: '017', hearthis: 178771}
+- {date: '2013-07-25', episode: '016', hearthis: 178782}
+- {date: '2013-07-18', episode: '015', hearthis: 178784}
+- {date: '2013-07-11', episode: '014', hearthis: 178803}
+- {date: '2013-07-05', episode: '013', hearthis: 178809}
+- {date: '2013-06-30', episode: '012', hearthis: 178807}
+- {date: '2013-06-21', episode: '011', hearthis: 178818}
+- {date: '2013-06-13', episode: '010', hearthis: 178826}
+- {date: '2013-06-07', episode: 009, hearthis: 178825}
+- {date: '2013-06-01', episode: 008, hearthis: 178831}
+- {date: '2013-05-24', episode: '007', hearthis: 178836}
+- {date: '2013-04-18', episode: '006', hearthis: 178835}
+- {date: '2013-04-11', episode: '005', hearthis: 178839}
+- {date: '2013-04-04', episode: '004', hearthis: 178841}
+- {date: '2013-03-28', episode: '003', hearthis: 178845}
+- {date: '2013-03-21', episode: '002', hearthis: 178855}
+- {date: '2013-03-14', episode: '001', hearthis: 178857}
