@@ -1,14 +1,14 @@
 var HEARTHIS_TEMPLATE = '<iframe scrolling="no" width="100%" height="150" src="https://hearthis.at/embed/%id%/transparent_black/?hcolor=&color=&style=2&block_size=1&block_space=1&background=1&waveform=0&cover=0&autoplay=0&css=" frameborder="0" allowtransparency></iframe>'
 var MIXCLOUD_TEMPLATE = '<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=%id%&hide_cover=1" frameborder="0"></iframe>'
 
-$(function() {
-    // Player 
-    $('#content > a.episode').click(function(e) {
+
+function bindPlayableItems(playItemPath) {
+    $(playItemPath).click(function(e) {
         e.preventDefault()
-        var episode = $(this)
+        var item = $(this)
         var player = $('#player')
-        var playerType = episode.attr('data-player-type')
-        var playerData = episode.attr('data-player-data')
+        var playerType = item.attr('data-player-type')
+        var playerData = item.attr('data-player-data')
 
         if (playerType == 'hearthis') {
             player.html(HEARTHIS_TEMPLATE.replace('%id%', playerData))
@@ -17,16 +17,21 @@ $(function() {
         } else {
             console.log('Unknown player: ' + playerType)
         }
-        $('#content > a.episode.selected').removeClass('selected');
-        episode.addClass('selected');
+        $(playItemPath + '.selected').removeClass('selected');
+        item.addClass('selected');
     })
-    $('#content > a.episode:first-child').click()
+}
+
+$(function() {
+    // Episodes player 
+    bindPlayableItems('#episodes > a.episode')
+    $('#episodes > a.episode:first-child').click()
 
     // Filter
     $('#episode-filter > a').click(function(e) {
         e.preventDefault()
         showEpisodeType = $(this).attr('data-show')
-        $('#content > a.episode').each(function() {
+        $('#episodes > a.episode').each(function() {
             episodeType = $(this).attr('data-episode-type')
             if (showEpisodeType === 'everything' && episodeType === 'episode') {
                 $(this).addClass('red');
