@@ -29,8 +29,5 @@
         {% endif %}
             data-episode-type="{{ e_type }}"
             data-episode-data="{{ e_data }}">{{ e_text }}</a>
-    {% unless forloop.last %}
-        <span class="space"> </span>
-    {% endunless %}
 
 {% endfor %}
