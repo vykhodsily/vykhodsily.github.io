@@ -1,30 +1,46 @@
-<div class="pure-u-1 pure-u-md-6-24"></div>
-<section class="bg pure-u-1 pure-u-md-12-24">
-    <br/>
+{% if page.title == "Podcast" %}
+  {% assign sel_podcast = "selected" %}
+{% elsif page.title == "Releases" %}
+  {% assign sel_releases = "selected" %}
+{% elsif page.title == "Patrons" %}
+  {% assign sel_patrons = "selected" %}
+{% elsif page.title == "About" %}
+  {% assign sel_about = "selected" %}
+{% endif %}
+<div class="pure-u-1
+            pure-u-md-2-24
+            pure-u-lg-6-24">
+</div>
+<section class="bg pure-u-1
+                pure-u-md-20-24
+                pure-u-lg-12-24">
 
-    <h1>Podcast “Vykhod Sily”</h1>
+    <h1>Vykhod Sily/Выход Силы</h1>
 
-    <span>
-        <a class="icon hearthis" title="Hearthis" href="https://hearthis.at/vykhodsily/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-        <a class="icon mixcloud" title="Mixcloud" href="https://www.mixcloud.com/SpecialRequest/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-        <a class="icon soundcloud" title="SoundCloud" href="http://soundcloud.com/vykhod_sily/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    </span>
+    <section class="links">
+        <a title="Hearthis" href="https://hearthis.at/vykhodsily/"
+          target="_blank">Hearthis</a>
+        <a title="Facebook" href="https://www.facebook.com/vykhodsily/"
+          target="_blank">Facebook</a>
+        <a title="SoundCloud" href="http://soundcloud.com/vykhod_sily/"
+          target="_blank">SoundCloud</a>
+        <!--
+        <br>
+        <strong><a title="Patreon" href="https://patreon.com/vykhodsily_podcast/"
+                   target="_blank">Support the label on Patreon!</a></h5></strong>
+        -->
+    </section>
 
-    <p>“Vykhod Sily” (or “The Way The Force Is Coming Through” in English) is a podcast launched
-        by Rustee (Special Request Crew) back in 2013 to push 85/170 BPM things further as being
-        heavily influenced by Autonomic movement and things related. In the course of time the
-        podcast has become probably one &amp; only in Russia focusing on halftempo. The musical
-        agenda represented in the podcast has been constantly reinforced both with the various
-        subgenres of modern 170 BPM electronica and with an oldschool influence. Aired every
-        Thursday at&nbsp;<span id="podcast-airtime">10pm (UTC+5)</span>
-        on the <a target="_blank" href="http://radio.dropthebass.ru">DROPTHEBASS radio</a>.</p>
+    <p>Approach &amp; identify. You’re at the homepage of Vykhod Sily/Выход
+    Силы, a community-supported recording label and a 85/170BPM podcast run by
+    Rustee. Our digital releases and all the podcast episodes can be found here.
+    All deep, dark &amp; heavy. We keep it going really hard so hold tight and
+    have a deep trip with Vykhod Sily/Выход Силы.</p>
+
     <nav>
-        <a href="#contact">Contact</a>
+        <a href="/" class="{{ sel_podcast }}">Podcast</a>
+        <a href="/releases" class="{{ sel_releases }}">Releases</a>
+        <a href="/patrons" class="{{ sel_patrons }}">Patrons</a>
+        <a href="/about" class="{{ sel_about }}">About</a>
     </nav>
 </section>
-<div class="pure-u-1 pure-u-md-6-24">
-</div>
-
-
-
-
