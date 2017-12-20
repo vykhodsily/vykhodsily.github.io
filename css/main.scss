@@ -62,6 +62,11 @@ a:hover { color: #aaa }
 .hidden { display: none }
 .sidebar {}
 
+ul {
+  li { margin-bottom: 0.5em }
+  li:last-child { margin-bottom: default }
+}
+
 #left-bar > h2, h3, p {
   padding: 0 1em;
 }
