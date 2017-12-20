@@ -189,12 +189,13 @@ margin: 0;
 }
 
 #content section.release {
+  margin-top: 1em;
   & > .release-cover img {
     width: 100%;
   }
   & > .release-info {
-    padding-left: 1em;
     h2 {
+      padding: 0 1em 0 0.7em;
       font-size: 1.25em;
       margin-top: 0;
     }
