@@ -144,6 +144,7 @@
 - {date: '2015-08-06', guest: Slimy, hearthis: 298986}
 - {date: '2015-07-23', guest: Law & Wheeler, hearthis: 278152}
 - {date: '2015-07-16', episode: '059', hearthis: 260193}
+- {date: '2015-07-08', hearthis:  1292668, special: 'Rustee - Riddim Chronicles'}
 - {date: '2015-07-02', episode: '058', hearthis: 250063}
 - {date: '2015-06-25', episode: '057', hearthis: 242654}
 - {date: '2015-06-18', guest: Mr. Diamond, hearthis: 237480}
@@ -153,13 +154,16 @@
 - {date: '2015-05-21', guest: Brandon Metaphysic Audio, hearthis: 219078}
 - {date: '2015-05-14', episode: '054', hearthis: 215042}
 - {date: '2015-05-07', guest: dj Rude Launch, hearthis: 212951}
+- {date: '2015-05-05', hearthis:  1289055, special: 'Rustee - Atmosphered Podcast'}
 - {date: '2015-05-01', guest: Greenleaf, hearthis: 208814}
 - {date: '2015-04-23', episode: '053', hearthis: 199939}
 - {date: '2015-04-16', guest: dj Darrel, hearthis:  551290}
 - {date: '2015-04-09', guest: SkyLabCru, hearthis:  551287}
+- {date: '2015-04-03', hearthis:  1291862, special: 'Rustee - Querbass Radio Show'}
 - {date: '2015-04-02', episode: '052', hearthis: 187225}
 - {date: '2015-03-26', guest: Apostroph, hearthis:  551291}
 - {date: '2015-03-19', episode: '051', hearthis: 179166}
+- {date: '2015-03-14', hearthis:  1291852, special: 'Rustee - MPOD'}
 - {date: '2015-03-12', guest: Tim Reaper, hearthis:  551286}
 - {date: '2015-03-05', episode: '050', hearthis: 178038}
 - {date: '2015-02-26', guest: Zul, hearthis:  551288}
