@@ -57,7 +57,7 @@
 - {date: '2017-04-27', guest: Fuj, hearthis:  1305690}
 - {date: '2017-04-20', episode: '087', hearthis:  1296737}
 - {date: '2017-04-13', guest: Torn, hearthis:  1287516}
-- {date: '2017-04-11', hearthis:  1285139, special: 'Rustee - Standart Music 013'}
+- {date: '2017-04-11', hearthis:  1285139, special: 'Rustee - Standart Music Podcast 013'}
 - {date: '2017-04-06', guest: Metro, hearthis:  1279942}
 - {date: '2017-03-30', guest: Emplate, hearthis:  1273288}
 - {date: '2017-03-30', hearthis:  1270824, special: 'Organic  Mix - Rustee'}
@@ -75,6 +75,7 @@
 - {date: '2016-12-29', guest: Bereneces, mixcloud: 'https://www.mixcloud.com/SpecialRequest/vykhod-sily-podcast-bereneces-guest-mix/'}
 - {date: '2016-12-22', guest: '[kju:bi]', mixcloud: 'https://www.mixcloud.com/SpecialRequest/vykhod-sily-podcast-kjubi-guest-mix/'}
 - {date: '2016-12-15', episode: '083', mixcloud: 'https://www.mixcloud.com/SpecialRequest/vykhod-sily-podcast-083/'}
+- {date: '2017-12-11', hearthis:  1250685, special: 'Rustee - Towerblock Session 27'}
 - {date: '2016-12-08', guest: Pen, mixcloud: 'https://www.mixcloud.com/SpecialRequest/vykhod-sily-podcast-pen-guest-mix/'}
 - {date: '2016-12-01', guest: Criss NSA, hearthis:  1126326}
 - {date: '2016-11-17', guest: Dominic Ridgway, hearthis:  1102301}
