@@ -7,12 +7,15 @@
 - {date: '2017-11-30', guest: Scale, hearthis: 1655473}
 - {date: '2017-11-28', live: Dronum, hearthis: 1649743}
 - {date: '2017-11-23', episode: '093', hearthis: 1643173}
+- {date: '2017-11-20', hearthis:  1640279, special: 'Rustee - Don't Leave Me On The Speaker'}
 - {date: '2017-11-16', guest: Plus Good, hearthis: 1630224}
+- {date: '2017-11-15', hearthis:  1634813, special: 'Rustee - Inside The Rift'}
 - {date: '2017-11-14', guest: Third Foundation, hearthis: 1630242}
 - {date: '2017-11-14', guest: Third Foundation, hearthis: 1630242}
 - {date: '2017-11-09', guest: HijaQ, hearthis: 1608471}
 - {date: '2017-10-31', guest: Wave Resistance, hearthis: 1608477}
 - {date: '2017-10-26', guest: Code, hearthis: 1590057}
+- {date: '2017-10-23', hearthis:  1599759, special: 'Rustee - Deeper Access'}
 - {date: '2017-10-19', guest: Elusive Elements, hearthis: 1590046}
 - {date: '2017-10-16', guest: Janoshi, hearthis: 1590019}
 - {date: '2017-10-12', episode: '092', hearthis: 1578153}
@@ -152,7 +155,9 @@
 - {date: '2015-06-04', guest: Asymmetric, hearthis: 228694}
 - {date: '2015-05-28', episode: '055', hearthis: 220239}
 - {date: '2015-05-21', guest: Brandon Metaphysic Audio, hearthis: 219078}
+- {date: '2015-05-20', hearthis:  1291876, special: 'Rustee - Aritmia Radio Show'}
 - {date: '2015-05-14', episode: '054', hearthis: 215042}
+- {date: '2015-05-12', hearthis:  1291891, special: 'Rustee - Intelligent Music Podcast'}
 - {date: '2015-05-07', guest: dj Rude Launch, hearthis: 212951}
 - {date: '2015-05-05', hearthis:  1289055, special: 'Rustee - Atmosphered Podcast'}
 - {date: '2015-05-01', guest: Greenleaf, hearthis: 208814}
@@ -166,11 +171,13 @@
 - {date: '2015-03-14', hearthis:  1291852, special: 'Rustee - MPOD'}
 - {date: '2015-03-12', guest: Tim Reaper, hearthis:  551286}
 - {date: '2015-03-05', episode: '050', hearthis: 178038}
+- {date: '2015-02-28', hearthis:  1289080, special: 'Rustee - Liquid Beat Cafe'}
 - {date: '2015-02-26', guest: Zul, hearthis:  551288}
 - {date: '2015-02-19', guest: Spotovsky, hearthis:  551280}
 - {date: '2015-02-12', episode: '049', hearthis: 178043}
 - {date: '2015-02-05', guest: I Wannabe, hearthis:  551279}
 - {date: '2015-01-29', episode: '048', hearthis: 178047}
+- {date: '2015-01-28', hearthis:  1291896, special: 'Rustee - Subwise Podcast'}
 - {date: '2015-01-22', guest: Mechncl, hearthis:  551278}
 - {date: '2015-01-15', episode: '047', hearthis: 178053}
 - {date: '2014-12-25', guest: The Untouchables, hearthis:  551275}
@@ -218,6 +225,7 @@
 - {date: '2014-02-20', guest: Retrospection, hearthis:  637749}
 - {date: '2014-02-13', guest: DYL, hearthis:  551256}
 - {date: '2014-02-06', episode: '027', hearthis: 178599}
+- {date: '2014-01-22', hearthis:  1291849, special: 'Rustee - Something Deep'}
 - {date: '2013-12-26', guest: Istadev, hearthis: 1327144}
 - {date: '2013-12-21', episode: '026', hearthis: 178612}
 - {date: '2013-12-14', guest: Marginal, hearthis:  551244}
