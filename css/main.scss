@@ -105,7 +105,38 @@ ul {
 
 #support-banner {
   background-color: $red-trans;
-  padding: 1em 0;
+  padding: 0.5em 0 0 0;
+  a.become-patron {
+    color: white;
+    background-color: rgb(249, 104, 84);
+    &:hover {
+      color: white;
+      background-color: rgb(249, 104, 84) * 1.15;
+    }
+    text-decoration: none;
+    line-height: 1.5em;
+    padding: 0.5em 0.75em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    & > svg {
+      height: 0.8em;
+      width: auto;
+      display: inline-block;
+      vertical-align: middle;
+      line-height: 1.5em;
+      g circle { fill: white }
+    }
+    & > span {
+      font-family: "America", "GT America", "Lato", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+      font-weight: 700;
+      text-transform: uppercase;
+      display: inline-block;
+      vertical-align: middle;
+      line-height: 1.5em;
+      margin-left: 0.5em
+    }
+  }
 }
 
 #content { padding-bottom: 1em }
