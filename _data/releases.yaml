@@ -1,7 +1,8 @@
 - cat: VS001
   name: Aakhu / Intercontinental EP
-  cover_small: "#"
+  cover: "https://user-images.githubusercontent.com/1007225/34186537-0a657a26-e535-11e7-8d88-7eeb69af2836.png"
   tracks:
     - dreadmaul & Bereneces - Aakhu
     - Bereneces & dreadmaul - Intercontinental
-  mp3: "#"
+  mp3: "https://github.com/vykhodsily/VS001/archive/master.zip"
+  soundcloud: "https://soundcloud.com/vykhod_sily/sets/aakhu-intercontinental-ep"
