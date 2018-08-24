@@ -1,5 +1,8 @@
 # - {date:, live:, hearthis:}
-- {date: '2018-06-16', episode: '101', hearthis: 2263023}
+- {date: '2017-08-23', guest: Eusebeia, hearthis: 2286419}
+- {date: '2018-03-21', hearthis: 2278531, special: 'Rustee - Trenes'}
+- {date: '2017-08-20', guest: Justice, hearthis: 2277892}
+- {date: '2018-08-16', episode: '101', hearthis: 2263023}
 - {date: '2017-08-13', guest: K-rob, hearthis: 2253073}
 - {date: '2017-08-09', guest: Monita, hearthis: 2237738}
 - {date: '2017-08-07', guest: Tom, hearthis: 2231034}
@@ -22,6 +25,7 @@
 - {date: '2018-05-17', episode: '098', hearthis: 1846803}
 - {date: '2018-05-10', guest: IMMERSE, hearthis: 1863087}
 - {date: '2018-05-03', guest: Chakal, hearthis: 1912858}
+- {date: '2018-05-02', hearthis: 1894454, special: 'Rustee - Science Hki'}
 - {date: '2018-04-26', guest: Dugy B, hearthis: 1846791}
 - {date: '2018-04-19', episode: '097', hearthis: 1863008}
 - {date: '2018-04-16', guest: C-KAY, hearthis: 1859366}
