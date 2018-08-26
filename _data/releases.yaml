@@ -8,6 +8,7 @@
 #   mp3: "https://github.com/vykhodsily/VSR003/archive/master.zip"
   soundcloud: "https://soundcloud.com/vykhod_sily/sets/vs003"
 - cat: VS002
+  date: 1 May 2018
   name: Faraway Dreams/Social Box EP
   cover: "https://user-images.githubusercontent.com/1007225/39457156-853d9482-4cf4-11e8-80ff-4eeaa3e72d26.jpg"
   tracks:
@@ -15,8 +16,8 @@
     - ghoulcut & alg0rh1tm - Social Box
   mp3: "https://github.com/vykhodsily/VS002/archive/master.zip"
   soundcloud: "https://soundcloud.com/vykhod_sily/ghoulcut-alg0rh1tm-social-box"
-
 - cat: VS001
+  date: 15 Oct 2017
   name: Aakhu/Intercontinental EP
   cover: "https://user-images.githubusercontent.com/1007225/39457274-6687e83e-4cf5-11e8-8947-c24926babeec.jpg"
   tracks:
