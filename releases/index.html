@@ -19,7 +19,9 @@ title: Releases
     </ol>
     <p><a href="{{ r.soundcloud }}" title="Listen on SoundCloud">Listen on SoundCloud</a></p>
     <p class="links">
-      <a href="{{ r.mp3 }}" title="Download {{ r.name }}" class="dl-mp3">MP3 320</a>
+      {% if r.mp3 %}
+        <a href="{{ r.mp3 }}" title="Download {{ r.name }}" class="dl-mp3">MP3 320</a>
+      {% endif %}
       <span class="dl-flac">Lossless (only for patrons)</span>
     </p>
   </section>
