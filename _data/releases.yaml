@@ -1,3 +1,11 @@
+- cat: VSR003
+  name: Kali/Monolith EP
+  cover: "https://raw.githubusercontent.com/vykhodsily/VSR003/master/cover.png"
+  tracks:
+  - Ahmad & Akinsa - Kali
+  - Ahmad & Akinsa - Monolith
+#   mp3: "https://github.com/vykhodsily/VSR003/archive/master.zip"
+  soundcloud: "https://soundcloud.com/vykhod_sily/sets/vs003"
 - cat: VS002
   name: Faraway Dreams/Social Box EP
   cover: "https://user-images.githubusercontent.com/1007225/39457156-853d9482-4cf4-11e8-80ff-4eeaa3e72d26.jpg"
