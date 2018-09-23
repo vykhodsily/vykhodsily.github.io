@@ -1,23 +1,23 @@
 # - {date:, live:, hearthis:}
-- {date: '2017-09-20', guest: Dj Y2, hearthis:2368182}
-- {date: '2017-09-14', guest: Mi-tzu, hearthis:2368138}
+- {date: '2018-09-20', guest: Dj Y2, hearthis:2368182}
+- {date: '2018-09-14', guest: Mi-tzu, hearthis:2368138}
 - {date: '2018-09-07', episode: '102', hearthis: 2356133}
-- {date: '2017-09-06', guest: Scepticz, hearthis: 2314656}
-- {date: '2017-08-30', guest: JB, hearthis: 2314648}
-- {date: '2017-08-27', guest: LoKi, hearthis: 2309571}
-- {date: '2017-08-23', guest: Eusebeia, hearthis: 2286419}
+- {date: '2018-09-06', guest: Scepticz, hearthis: 2314656}
+- {date: '2018-08-30', guest: JB, hearthis: 2314648}
+- {date: '2018-08-27', guest: LoKi, hearthis: 2309571}
+- {date: '2018-08-23', guest: Eusebeia, hearthis: 2286419}
 - {date: '2018-03-21', hearthis: 2278531, special: 'Rustee - Trenes'}
-- {date: '2017-08-20', guest: Justice, hearthis: 2277892}
+- {date: '2018-08-20', guest: Justice, hearthis: 2277892}
 - {date: '2018-08-16', episode: '101', hearthis: 2263023}
-- {date: '2017-08-13', guest: K-rob, hearthis: 2253073}
-- {date: '2017-08-09', guest: Monita, hearthis: 2237738}
-- {date: '2017-08-07', guest: Tom, hearthis: 2231034}
-- {date: '2017-08-06', guest: Kashapov, hearthis: 2225790}
-- {date: '2017-08-02', guest: Dissect, hearthis: 2198497}
-- {date: '2017-07-26', guest: Yorobi, hearthis: 2198491}
+- {date: '2018-08-13', guest: K-rob, hearthis: 2253073}
+- {date: '2018-08-09', guest: Monita, hearthis: 2237738}
+- {date: '2018-08-07', guest: Tom, hearthis: 2231034}
+- {date: '2018-08-06', guest: Kashapov, hearthis: 2225790}
+- {date: '2018-08-02', guest: Dissect, hearthis: 2198497}
+- {date: '2018-07-26', guest: Yorobi, hearthis: 2198491}
 - {date: '2018-07-19', episode: '100', hearthis: 2145117}
-- {date: '2017-07-12', guest: KOT, hearthis: 2145124}
-- {date: '2017-07-09', live: protosoniq, hearthis: 2140391}
+- {date: '2018-07-12', guest: KOT, hearthis: 2145124}
+- {date: '2018-07-09', live: protosoniq, hearthis: 2140391}
 - {date: '2018-07-05', guest: Milky Dubz, hearthis: 2143189}
 - {date: '2018-06-30', guest: Anthila, hearthis: 2136530}
 - {date: '2018-06-28', guest: Lynch Kingsley, hearthis: 2125189}
