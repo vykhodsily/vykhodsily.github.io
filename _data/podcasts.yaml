@@ -1,4 +1,10 @@
 # - {date:, live:, hearthis:}
+- {date: '2018-10-09', guest: Subminimal, hearthis: 2439886}
+- {date: '2018-10-04', guest: Jesta, hearthis: 2431691}
+- {date: '2018-10-01', guest: k.o, hearthis: 2423946}
+- {date: '2018-09-29', hearthis: 2417647, special: 'Rustee - Drumfunk Sessions'}
+- {date: '2018-09-28', guest: Section, hearthis: 2414621}
+- {date: '2018-09-24', guest: Jolly, hearthis: 2410320}
 - {date: '2018-09-20', guest: Y2, hearthis: 2368182}
 - {date: '2018-09-14', guest: Mi-tzu, hearthis: 2368138}
 - {date: '2018-09-07', episode: '102', hearthis: 2356133}
