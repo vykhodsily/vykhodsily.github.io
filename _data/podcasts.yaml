@@ -1,4 +1,9 @@
 # - {date:, live:, hearthis:}
+- {date: '2019-08-16', guest: WITO, hearthis: 3598533}
+- {date: '2019-08-15', guest: Anca, hearthis: 3598432}
+- {date: '2019-08-08', guest: Distinctive, hearthis: 3579801}
+- {date: '2019-08-04', guest: FX, hearthis: 3566373}
+- {date: '2019-08-01', episode: '109', hearthis: 3425995}
 - {date: '2019-07-25', guest: Anomalies, hearthis: 3370952}
 - {date: '2019-07-18', guest: Nick EP, hearthis: 3370916}
 - {date: '2019-07-15', guest: Booca, hearthis: 3372070}
