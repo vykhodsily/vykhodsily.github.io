@@ -1,10 +1,10 @@
-#- cat: VSR004
-#  date: 27 Sept 2019
-#  name: Rotor/Stator EP
-#  cover: "https://raw.githubusercontent.com/vykhodsily/VSR004/master/cover.png"
-#  tracks:
-#  - Dailiv & Cryptographic - Rotor
-#  - Dailiv & Cryptographic - Stator
+- cat: VSR004
+  date: 27 Sept 2019
+  name: Rotor/Stator EP
+  cover: "https://raw.githubusercontent.com/vykhodsily/VSR004/master/cover.png"
+  tracks:
+  - Dailiv & Cryptographic - Rotor
+  - Dailiv & Cryptographic - Stator
 - cat: VSR003
   date: 1 Sept 2018
   name: Kali/Monolith EP
