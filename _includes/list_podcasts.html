@@ -18,6 +18,10 @@
         {% assign e_type = "special" %}
         {% assign e_data = p.special %}
         {% assign e_text = p.special | replace: ' ', '&nbsp;' %}
+    {% elsif p.subchannel %}
+        {% assign e_type = "subchannel" %}
+        {% assign e_data = p.subchannel %}
+        {% assign e_text = p.subchannel | replace: ' ', '&nbsp;' %}
     {% endif %}
     <a  href="#" class="episode"
         {% if p.hearthis %}
