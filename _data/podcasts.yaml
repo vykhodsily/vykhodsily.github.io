@@ -3,9 +3,11 @@
 - {date: '2019-12-26', guest: David Pierog, hearthis: 4208126}
 - {date: '2019-12-22', guest: Ant To Be, hearthis: 4198980}
 - {date: '2019-12-19', guest: Dfect, hearthis: 4175069}
+- {date: '2019-12-05', hearthis: 4164804, subchannel: "VS Subchannel #4 - JB (12.2019)"}
 - {date: '2019-12-12', guest: Fushara, hearthis: 4154863}
 - {date: '2019-12-09', guest: Yin Yang Audio, hearthis: 4144055}
 - {date: '2019-12-06', guest: No_Name, hearthis: 4138020}
+- {date: '2019-12-01', hearthis: 4125255, subchannel: "VS Subchannel #6 - STC (11.2019)"}
 - {date: '2019-11-28', episode: '111', hearthis: 4107909}
 - {date: '2019-11-25', guest: Hughesee, hearthis: 4092349}
 - {date: '2019-11-21', guest: Dj Vetoe, hearthis: 3971812}
@@ -14,17 +16,20 @@
 - {date: '2019-11-17', guest: Artem Timofeev, hearthis: 4014995}
 - {date: '2019-11-14', guest: Rikz, hearthis: 4005287}
 - {date: '2019-11-10', guest: Audrius Šėlsta, hearthis: 3994008}
+- {date: '2019-11-04', hearthis: 3965257, subchannel: "VS Subchannel #5 - mR_BLACk (11.2019)"}
 - {date: '2019-11-02', guest: Urban Trip, hearthis: 3971731}
 - {date: '2019-11-02', guest: Kola Nut, hearthis: 3952144}
 - {date: '2019-11-01', guest: A-D, hearthis: 3952099}
 - {date: '2019-10-28', guest: Phonaut (2), hearthis: 3938833}
 - {date: '2019-10-25', guest: d.y, hearthis: 3902621}
 - {date: '2019-10-24', guest: Pheme, hearthis: 3902635}
+- {date: '2019-10-20', hearthis: 3877305, subchannel: "VS Subchannel #3 - Buddhafinger (10.2019)"}
 - {date: '2019-10-18', guest: Pixl, hearthis: 3877210}
 - {date: '2019-10-17', guest: Monita B2B Flashback, hearthis: 3877200}
 - {date: '2019-10-11', guest: Barry Gibb, hearthis: 3779655}
 - {date: '2019-10-10', guest: ODJ Dizzy, hearthis: 3779646}
 - {date: '2019-10-03', guest: Doqta, hearthis: 3761125}
+- {date: '2019-09-30', hearthis: 3746142, subchannel: "VS Subchannel #2 - Long Range Comms (09.2019)"}
 - {date: '2019-09-29', hearthis: 3744977, special: 'Rustee - Stimulating Frequencies 027'}
 - {date: '2019-09-27', guest: Dozer, hearthis: 3736789}
 - {date: '2019-09-23', guest: ∞, hearthis: 3725127}
