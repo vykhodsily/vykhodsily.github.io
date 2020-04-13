@@ -1,4 +1,16 @@
 # - {date:, live:, hearthis:}
+
+- {date: '2020-12-04', guest: RBYN, hearthis: 4554334}
+- {date: '2020-09-04', guest: Klynch, hearthis: 4554323}
+- {date: '2020-05-04', guest: Universe 909, hearthis: 4544749}
+- {date: '2020-02-04', guest: Bevz, hearthis: 4534430}
+- {date: '2019-26-03', episode: '112', hearthis: 4507709}
+- {date: '2020-24-03', guest: Hooded Communion, hearthis: 4483301}
+- {date: '2019-22-03', hearthis: 4483311, subchannel: "VS Subchannel #6 - STC (03.2020)"}
+- {date: '2020-20-03', guest: Undadog, hearthis: 4486213}
+- {date: '2020-15-03', guest: KOT, hearthis: 4474190}
+- {date: '2020-12-03', guest: Philo, hearthis: 4463566}
+- {date: '2020-09-03', guest: DJ 0000, hearthis: 4455600}
 - {date: '2020-06-03', guest: KATON, hearthis: 4446941}
 - {date: '2019-03-03', hearthis: 4440187, subchannel: "VS Subchannel #2 - Long Range Comms (02.2020)"}
 - {date: '2020-02-03', guest: DRGBL5, hearthis: 4436353}
