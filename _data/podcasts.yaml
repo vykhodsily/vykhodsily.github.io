@@ -15,7 +15,7 @@
 - {date: '2020-24-03', guest: Hooded Communion, hearthis: 4483301}
 - {date: '2019-22-03', hearthis: 4483311, subchannel: "VS Subchannel #6 - STC (03.2020)"}
 - {date: '2020-20-03', guest: Undadog, hearthis: 4486213}
-- {date: '2020-15-03', guest: KOT, hearthis: 4474190}
+- {date: '2020-15-03', guest: KOT (2), hearthis: 4474190}
 - {date: '2020-12-03', guest: Philo, hearthis: 4463566}
 - {date: '2020-09-03', guest: DJ 0000, hearthis: 4455600}
 - {date: '2020-06-03', guest: KATON, hearthis: 4446941}
@@ -24,7 +24,7 @@
 - {date: '2020-02-28', guest: Spinnet, hearthis: 4423370}
 - {date: '2020-02-26', guest: Фактура, hearthis: 4418715}
 - {date: '2020-02-20', guest: Jaskin & Uneven, hearthis: 4405615}
-- {date: '2020-02-16', guest: alg0rh1tm, hearthis: 4393544}
+- {date: '2020-02-16', guest: alg0rh1tm (2), hearthis: 4393544}
 - {date: '2020-02-13', guest: Second Section, hearthis: 4386268}
 - {date: '2020-02-09', guest: Jenni Hgrnn, hearthis: 4365427}
 - {date: '2020-02-07', guest: Dave Sector, hearthis: 4357800}
@@ -44,8 +44,7 @@
 - {date: '2019-11-28', episode: '111', hearthis: 4107909}
 - {date: '2019-11-25', guest: Hughesee, hearthis: 4092349}
 - {date: '2019-11-21', guest: Dj Vetoe, hearthis: 3971812}
-- {date: '2019-11-21', guest: Dj Vetoe, hearthis: 3971812}
-- {date: '2019-11-17', guest: Artem Timofeev, hearthis: 4014995}
+- {date: '2019-11-17', guest: Artem Timofeev (1), hearthis: 4014995}
 - {date: '2019-11-14', guest: Rikz, hearthis: 4005287}
 - {date: '2019-11-10', guest: Audrius Šėlsta, hearthis: 3994008}
 - {date: '2019-11-04', hearthis: 3965257, subchannel: "VS Subchannel #5 - mR_BLACk (11.2019)"}
@@ -87,7 +86,7 @@
 - {date: '2019-07-04', guest: Zonteeque, hearthis: 3321988}
 - {date: '2019-06-27', episode: '108', hearthis: 3293020}
 - {date: '2019-06-20', guest: Shiza, hearthis: 3281159}
-- {date: '2019-06-17', guest: mR_BLACk, hearthis: 3263350}
+- {date: '2019-06-17', guest: mR_BLACk (2), hearthis: 3263350}
 - {date: '2019-06-13', guest: Gee, hearthis: 3256755}
 - {date: '2019-06-06', guest: Monologue, hearthis: 3221722}
 - {date: '2019-05-30', guest: Dj Intersect, hearthis: 3189601}
