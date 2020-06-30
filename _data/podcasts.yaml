@@ -1,4 +1,9 @@
 # - {date:, live:, hearthis:}
+- {date: '2020-18-05', guest: Neocube, hearthis: 4751144}
+- {date: '2020-14-05', guest: OpenEnd, hearthis: 4731672}
+- {date: '2020-12-05', guest: Flashback, hearthis: 4723897}
+- {date: '2019-08-05', episode: '113', hearthis: 4703218}
+- {date: '2020-07-05', guest: D-Lo, hearthis: 4701052}
 - {date: '2019-06-05', hearthis: 4694618, subchannel: "VS Subchannel #1 - Justice (05.2020)"}
 - {date: '2020-03-05', guest: Артем Тимофеев (2), hearthis: 4698912}
 - {date: '2020-30-04', guest: Outta Endz, hearthis: 4652870}
