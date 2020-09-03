@@ -1,4 +1,10 @@
 # - {date:, live:, hearthis:}
+- {date: '2020-03-09', guest: AnMan, hearthis: 5091348}
+- {date: '2020-20-08', guest: Furious, hearthis: 5072876}
+- {date: '2019-20-08', episode: '114', hearthis: 5053007}
+- {date: '2020-13-08', guest: Killarezz, hearthis: 5034718}
+- {date: '2020-06-08', guest: Duburban, hearthis: 5016495}
+- {date: '2020-30-07', guest: Rumbus, hearthis: 4996250}
 - {date: '2020-23-07', guest: Coco Bryce, hearthis: 4974692}
 - {date: '2020-16-07', guest: S.Kid, hearthis: 4954016}
 - {date: '2020-09-07', guest: DarkAli, hearthis: 4930576}
