@@ -1,4 +1,15 @@
 # - {date:, live:, hearthis:}
+- {date: '2020-20-10', guest: Tech Cycle, hearthis: 5232094}
+- {date: '2020-16-10', guest: Leonux, hearthis: 5214388}
+- {date: '2019-11-10', hearthis: 5202473, subchannel: "VS Subchannel #6 - STC (10.2020)"}
+- {date: '2020-09-10', guest: Sammy B, hearthis: 5196828}
+- {date: '2020-01-10', guest: Russ XS, hearthis: 5170459}
+- {date: '2019-28-09', hearthis: 5165817, subchannel: "VS Subchannel #3 - Buddhafinger (09.2020)"}
+- {date: '2020-24-09', guest: COURTICE, hearthis: 5155099}
+- {date: '2020-17-09', guest: MB4, hearthis: 5135598}
+- {date: '2019-13-09', hearthis: 5120359, subchannel: "VS Subchannel #5 - mR_BLACk (09.2020)"}
+- {date: '2020-10-09', guest: Selectabwoy, hearthis: 5111788}
+- {date: '2020-07-09', guest: Besman, hearthis: 5100242}
 - {date: '2020-03-09', guest: AnMan, hearthis: 5091348}
 - {date: '2020-20-08', guest: Furious, hearthis: 5072876}
 - {date: '2019-20-08', episode: '114', hearthis: 5053007}
