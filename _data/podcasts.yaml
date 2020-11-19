@@ -1,4 +1,11 @@
-# - {date:, live:, hearthis:}
+# - {date:, live:, hearthis:}\
+- {date: '2020-19-11', guest: S.Check, hearthis: 5322996}
+- {date: '2020-12-11', guest: JMC, hearthis: 5300272}
+- {date: '2020-05-11', guest: FFF, hearthis: 5278291}
+- {date: '2020-01-11', guest: Kit Curse, hearthis: 5267942}
+- {date: '2020-30-10', guest: Stina, hearthis: 5248471}
+- {date: '2020-26-10', hearthis: 5248464, subchannel: "VS Subchannel #2 - Long Range Comms (10.2020)"}
+- {date: '2020-22-10', guest: Kola Nut, hearthis: 5238200}
 - {date: '2020-20-10', guest: Tech Cycle, hearthis: 5232094}
 - {date: '2020-16-10', guest: Leonux, hearthis: 5214388}
 - {date: '2019-11-10', hearthis: 5202473, subchannel: "VS Subchannel #6 - STC (10.2020)"}
