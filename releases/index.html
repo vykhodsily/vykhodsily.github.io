@@ -4,6 +4,7 @@ title: Releases
 ---
 
 {% for r in site.data.releases %}
+{% unless r.hidden %}
 
 <section class="pure-g release">
   <section class="release-cover pure-u-7-24 pure-u-sm-7-24 pure-u-md-7-24">
@@ -29,4 +30,5 @@ title: Releases
   </section>
 </section>
 
+{% endunless %}
 {% endfor %}
