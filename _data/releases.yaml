@@ -1,3 +1,12 @@
+- cat: VSR005
+  date: TBA
+  name: Taiga/Tundra EP
+  cover: "https://raw.githubusercontent.com/vykhodsily/VSR005/master/cover.png"
+  tracks:
+  - Entire & Istota - Taiga
+  - Entire & Istota - Tundra
+  mp3: "https://github.com/vykhodsily/VSR005/archive/master.zip"
+  soundcloud: "https://soundcloud.com/vykhod_sily/sets/taiga-tundra-ep-vsr005"
 - cat: VSR004
   date: 27 Sept 2019
   name: Rotor/Stator EP
