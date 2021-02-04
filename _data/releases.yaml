@@ -7,6 +7,7 @@
   - Entire & Istota - Tundra
   mp3: "https://github.com/vykhodsily/VSR005/archive/master.zip"
   soundcloud: "https://soundcloud.com/vykhod_sily/sets/taiga-tundra-ep-vsr005"
+  hidden: {} # delete this line for the item to appear on the website
 - cat: VSR004
   date: 27 Sept 2019
   name: Rotor/Stator EP
