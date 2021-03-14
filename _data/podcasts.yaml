@@ -1,3 +1,7 @@
+# - date: 2222-12-31
+#   guest: Some Awesome Guest
+#   embed: >
+#     replace_with_embed_code_and_preserve_the_gap_on_the_left
 - date: 2021-02-02
   guest: Buster
   embed: >
