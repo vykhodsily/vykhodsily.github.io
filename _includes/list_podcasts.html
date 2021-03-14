@@ -26,10 +26,13 @@
     <a  href="#" class="episode"
         {% if p.hearthis %}
             data-player-type="hearthis"
-            data-player-data="{{p.hearthis | replace: 'https://hearthis.at/', '' | replace: '/', ''}}"
+            data-player-data="{{ p.hearthis | replace: 'https://hearthis.at/', '' | replace: '/', '' }}"
         {% elsif p.mixcloud %}
             data-player-type="mixcloud"
-            data-player-data="{{p.mixcloud | escape}}"
+            data-player-data="{{ p.mixcloud | escape }}"
+       {% elsif p.embed %}
+            data-player-type="embed"
+            data-player-data="{{ p.embed }}"
         {% endif %}
             data-episode-type="{{ e_type }}"
             data-episode-data="{{ e_data }}">{{ e_text }}</a>
