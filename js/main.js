@@ -14,7 +14,11 @@ function bindPlayableItems(playItemPath) {
             player.html(HEARTHIS_TEMPLATE.replace('%id%', playerData))
         } else if (playerType == 'mixcloud') {
             player.html(MIXCLOUD_TEMPLATE.replace('%id%', playerData))
-        } else {
+        }
+        else if (playerType == 'embed') {
+            player.html(playerData)
+        }
+        else {
             console.log('Unknown player: ' + playerType)
         }
         $(playItemPath + '.selected').removeClass('selected');
