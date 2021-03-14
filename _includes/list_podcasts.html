@@ -32,7 +32,7 @@
             data-player-data="{{ p.mixcloud | escape }}"
        {% elsif p.embed %}
             data-player-type="embed"
-            data-player-data="{{ p.embed }}"
+            data-player-data="{{ p.embed | escape }}"
         {% endif %}
             data-episode-type="{{ e_type }}"
             data-episode-data="{{ e_data }}">{{ e_text }}</a>
