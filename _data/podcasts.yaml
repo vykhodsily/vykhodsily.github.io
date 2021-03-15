@@ -1,11 +1,8 @@
-# - date: 2222-12-31
-#   guest: Some Awesome Guest
-#   embed: >
-#     replace_with_embed_code_and_preserve_the_gap_on_the_left
-- date: 2021-02-02
-  guest: Buster
+
+- date: 2021-01-17
+  guest: Tohanton
   embed: >
-    <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/981875635&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/vykhod_sily" title="Vykhod Sily/Выход Силы" target="_blank" style="color: #cccccc; text-decoration: none;">Vykhod Sily/Выход Силы</a> · <a href="https://soundcloud.com/vykhod_sily/vykhod-sily-podcast-buster-guest-mix-2" title="Vykhod Sily Podcast - Buster Guest Mix (2)" target="_blank" style="color: #cccccc; text-decoration: none;">Vykhod Sily Podcast - Buster Guest Mix (2)</a></div>
+   <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/967383280&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/vykhod_sily" title="Vykhod Sily/Выход Силы" target="_blank" style="color: #cccccc; text-decoration: none;">Vykhod Sily/Выход Силы</a> · <a href="https://soundcloud.com/vykhod_sily/vykhod-sily-podcast-tohanton-guest-mix" title="Vykhod Sily Podcast - Tohanton Guest Mix" target="_blank" style="color: #cccccc; text-decoration: none;">Vykhod Sily Podcast - Tohanton Guest Mix</a></div>
 - {date: '2020-31-12', guest: V.K, hearthis: 5491511}
 - {date: '2020-28-12', guest: Palitra, hearthis: 5453116}
 - {date: '2020-24-12', guest: Beenie, hearthis: 5453123}
